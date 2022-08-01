@@ -40,6 +40,62 @@ import "@plasmicapp/react-web/lib/plasmic.css";
 import projectcss from "./plasmic_blank_project.module.css"; // plasmic-import: jeUVTZpiRA29nP27GF7fj4/projectcss
 import sty from "./PlasmicHomepage.module.css"; // plasmic-import: 4CuivW7KVUVG/css
 
+import CreattRIcon from "./icons/PlasmicIcon__CreattR"; // plasmic-import: FNG3UlGyj1k/icon
+import UnionIcon from "./icons/PlasmicIcon__Union"; // plasmic-import: N6o66huG7KW/icon
+import Ellipse4Icon from "./icons/PlasmicIcon__Ellipse4"; // plasmic-import: pUJ57x7p064/icon
+import Union2Icon from "./icons/PlasmicIcon__Union2"; // plasmic-import: FheNG_AuAQt/icon
+import Union3Icon from "./icons/PlasmicIcon__Union3"; // plasmic-import: Oj6tLwLAJz9/icon
+import Ellipse5Icon from "./icons/PlasmicIcon__Ellipse5"; // plasmic-import: 5Z8IQ3OCnYZ/icon
+import Ellipse17Icon from "./icons/PlasmicIcon__Ellipse17"; // plasmic-import: QHv-QApTcxG/icon
+import ShareIconIcon from "./icons/PlasmicIcon__ShareIcon"; // plasmic-import: HlXzTjnnqHm/icon
+import Ellipse18Icon from "./icons/PlasmicIcon__Ellipse18"; // plasmic-import: c4JUM2yJ0lC/icon
+import Ellipse19Icon from "./icons/PlasmicIcon__Ellipse19"; // plasmic-import: W6ZeJGBfn2p/icon
+import ShareIcon2Icon from "./icons/PlasmicIcon__ShareIcon2"; // plasmic-import: cwypMOIOAUI/icon
+import Ellipse20Icon from "./icons/PlasmicIcon__Ellipse20"; // plasmic-import: 4CNYgfY6IMw/icon
+import ShareIcon3Icon from "./icons/PlasmicIcon__ShareIcon3"; // plasmic-import: A6d5GRwiFPk/icon
+import Ellipse21Icon from "./icons/PlasmicIcon__Ellipse21"; // plasmic-import: 7OoOfz1FW95/icon
+import Ellipse22Icon from "./icons/PlasmicIcon__Ellipse22"; // plasmic-import: i_HIV8MIt6B/icon
+import Ellipse23Icon from "./icons/PlasmicIcon__Ellipse23"; // plasmic-import: F3an1U8Yv0_/icon
+import Group50670Icon from "./icons/PlasmicIcon__Group50670"; // plasmic-import: FvZWAaq-bpg/icon
+import Group2Icon from "./icons/PlasmicIcon__Group2"; // plasmic-import: pC_Wwsaua-v/icon
+import Group501Icon from "./icons/PlasmicIcon__Group501"; // plasmic-import: OD8-Snz5lN8/icon
+import Rectangle17Icon from "./icons/PlasmicIcon__Rectangle17"; // plasmic-import: U3j_zRjuzFb/icon
+import BlusinhaIcon from "./icons/PlasmicIcon__Blusinha"; // plasmic-import: 2s06uOG0Qo4/icon
+import _109Icon from "./icons/PlasmicIcon___109"; // plasmic-import: FO7RTxJ9J-H/icon
+import Rectangle18Icon from "./icons/PlasmicIcon__Rectangle18"; // plasmic-import: aSvOmmef0bK/icon
+import ComprarIcon from "./icons/PlasmicIcon__Comprar"; // plasmic-import: ZBA_hDwvMVw/icon
+import Group23Icon from "./icons/PlasmicIcon__Group23"; // plasmic-import: 3L6E0lVhBi9/icon
+import Vector1Icon from "./icons/PlasmicIcon__Vector1"; // plasmic-import: MBkng-kW5k4/icon
+import Rectangle3StrokeIcon from "./icons/PlasmicIcon__Rectangle3Stroke"; // plasmic-import: JnyLsIRQHOK/icon
+import Rectangle20Icon from "./icons/PlasmicIcon__Rectangle20"; // plasmic-import: YyrY4Dqsh1g/icon
+import BrunaAdorouIssoIcon from "./icons/PlasmicIcon__BrunaAdorouIsso"; // plasmic-import: 2T4qm_QN2f6/icon
+import Rectangle21Icon from "./icons/PlasmicIcon__Rectangle21"; // plasmic-import: k--DKaux29w/icon
+import LeonardoCurtiuIssoIcon from "./icons/PlasmicIcon__LeonardoCurtiuIsso"; // plasmic-import: ZW9p5VOsAev/icon
+import Rectangle22Icon from "./icons/PlasmicIcon__Rectangle22"; // plasmic-import: uRAEwMyez_i/icon
+import PatriciaGostouDissoIcon from "./icons/PlasmicIcon__PatriciaGostouDisso"; // plasmic-import: KVPLJbAi3d1/icon
+import Ellipse9Icon from "./icons/PlasmicIcon__Ellipse9"; // plasmic-import: 0ZAiS9y37nJ/icon
+import Ellipse10StrokeIcon from "./icons/PlasmicIcon__Ellipse10Stroke"; // plasmic-import: p-cHkSkqPGc/icon
+import Ellipse11Icon from "./icons/PlasmicIcon__Ellipse11"; // plasmic-import: 3pER7dsnPDy/icon
+import Group31Icon from "./icons/PlasmicIcon__Group31"; // plasmic-import: jySfg9PJ0jw/icon
+import Ellipse15Icon from "./icons/PlasmicIcon__Ellipse15"; // plasmic-import: 9N3bb8Wh75b/icon
+import Ellipse6Icon from "./icons/PlasmicIcon__Ellipse6"; // plasmic-import: Vbz2mWOb5FP/icon
+import Group4Icon from "./icons/PlasmicIcon__Group4"; // plasmic-import: X3SiyVhFxW2/icon
+import Ellipse7Icon from "./icons/PlasmicIcon__Ellipse7"; // plasmic-import: 83koad6EasB/icon
+import Polygon2Icon from "./icons/PlasmicIcon__Polygon2"; // plasmic-import: fBSh1Ue6LmN/icon
+import Group34Icon from "./icons/PlasmicIcon__Group34"; // plasmic-import: FhoNE9N-I3z/icon
+import ShareIcon from "./icons/PlasmicIcon__Share"; // plasmic-import: HbnK5Mvo7U0/icon
+import Vector3Icon from "./icons/PlasmicIcon__Vector3"; // plasmic-import: kdybhmtO9yM/icon
+import Vector2Icon from "./icons/PlasmicIcon__Vector2"; // plasmic-import: QKFw_Uf_PXT/icon
+import Union4Icon from "./icons/PlasmicIcon__Union4"; // plasmic-import: MGXPPKzKg0l/icon
+import Path688Icon from "./icons/PlasmicIcon__Path688"; // plasmic-import: IdVSeaHed/icon
+import Line1Icon from "./icons/PlasmicIcon__Line1"; // plasmic-import: dnZapVi9wL/icon
+import InstagramIcon from "./icons/PlasmicIcon__Instagram"; // plasmic-import: lAxvLBoPRw/icon
+import VectorIcon from "./icons/PlasmicIcon__Vector"; // plasmic-import: BOgRX4NUVm/icon
+import FacebookIcon from "./icons/PlasmicIcon__Facebook"; // plasmic-import: IB3pOlXNA0/icon
+import PintrestIcon from "./icons/PlasmicIcon__Pintrest"; // plasmic-import: Ma2UejLap6/icon
+import CreattR2Icon from "./icons/PlasmicIcon__CreattR2"; // plasmic-import: CGKnLOE4vq/icon
+import Polygon3Icon from "./icons/PlasmicIcon__Polygon3"; // plasmic-import: 1d-6JvugV2/icon
+
 export type PlasmicHomepage__VariantMembers = {};
 
 export type PlasmicHomepage__VariantsArgs = {};
@@ -52,9 +108,252 @@ export const PlasmicHomepage__ArgProps = new Array<ArgPropType>();
 
 export type PlasmicHomepage__OverridesType = {
   root?: p.Flex<"div">;
-  section?: p.Flex<"section">;
-  h1?: p.Flex<"h1">;
-  text?: p.Flex<"div">;
+  telaInicial?: p.Flex<"div">;
+  rectangle6204?: p.Flex<"div">;
+  group8?: p.Flex<"div">;
+  rectangle3?: p.Flex<"div">;
+  maskGroup?: p.Flex<"div">;
+  image39?: p.Flex<"div">;
+  fire?: p.Flex<"div">;
+  group10?: p.Flex<"div">;
+  group3?: p.Flex<"div">;
+  rectangle4?: p.Flex<"div">;
+  rectangle5?: p.Flex<"div">;
+  rectangle6?: p.Flex<"div">;
+  rectangle7?: p.Flex<"div">;
+  group9?: p.Flex<"div">;
+  rectangle1?: p.Flex<"div">;
+  group16?: p.Flex<"div">;
+  group50716?: p.Flex<"div">;
+  group50688?: p.Flex<"div">;
+  rectangle2?: p.Flex<"div">;
+  group50619?: p.Flex<"div">;
+  maskGroup2?: p.Flex<"div">;
+  image6?: p.Flex<"div">;
+  image9?: p.Flex<"div">;
+  image40?: p.Flex<"div">;
+  maskGroup3?: p.Flex<"div">;
+  image7?: p.Flex<"div">;
+  image8?: p.Flex<"div">;
+  image74?: p.Flex<"div">;
+  maskGroup4?: p.Flex<"div">;
+  image10?: p.Flex<"div">;
+  image73?: p.Flex<"div">;
+  maskGroup5?: p.Flex<"div">;
+  image11?: p.Flex<"div">;
+  image12?: p.Flex<"div">;
+  image29?: p.Flex<"div">;
+  maskGroup6?: p.Flex<"div">;
+  image13?: p.Flex<"div">;
+  image14?: p.Flex<"div">;
+  image15?: p.Flex<"div">;
+  image30?: p.Flex<"div">;
+  maskGroup7?: p.Flex<"div">;
+  image16?: p.Flex<"div">;
+  image17?: p.Flex<"div">;
+  image31?: p.Flex<"div">;
+  group5?: p.Flex<"div">;
+  group4?: p.Flex<"div">;
+  group2?: p.Flex<"div">;
+  group6?: p.Flex<"div">;
+  group7?: p.Flex<"div">;
+  group11?: p.Flex<"div">;
+  group12?: p.Flex<"div">;
+  group50684?: p.Flex<"div">;
+  group43?: p.Flex<"div">;
+  rectangle8?: p.Flex<"div">;
+  maskGroup8?: p.Flex<"div">;
+  pexelsMiriamAlonso75856301?: p.Flex<"div">;
+  group53?: p.Flex<"div">;
+  group49?: p.Flex<"div">;
+  group54?: p.Flex<"div">;
+  group50682?: p.Flex<"div">;
+  group52?: p.Flex<"div">;
+  group28?: p.Flex<"div">;
+  rectangle20?: p.Flex<"div">;
+  maskGroup9?: p.Flex<"div">;
+  image51?: p.Flex<"div">;
+  image52?: p.Flex<"div">;
+  group29?: p.Flex<"div">;
+  rectangle21?: p.Flex<"div">;
+  maskGroup10?: p.Flex<"div">;
+  image53?: p.Flex<"div">;
+  image54?: p.Flex<"div">;
+  image55?: p.Flex<"div">;
+  group50650?: p.Flex<"div">;
+  image75?: p.Flex<"div">;
+  group50681?: p.Flex<"div">;
+  group45?: p.Flex<"div">;
+  group48?: p.Flex<"div">;
+  group50?: p.Flex<"div">;
+  group27?: p.Flex<"div">;
+  rectangle22?: p.Flex<"div">;
+  maskGroup11?: p.Flex<"div">;
+  image56?: p.Flex<"div">;
+  paginaIncialComoFuncionaLojasParceirasCreattors?: p.Flex<"div">;
+  rectangle6213?: p.Flex<"div">;
+  group50687?: p.Flex<"div">;
+  rectangle9?: p.Flex<"div">;
+  rectangle10?: p.Flex<"div">;
+  group50751?: p.Flex<"div">;
+  rectangle6205?: p.Flex<"div">;
+  rectangle6206?: p.Flex<"div">;
+  rectangle6207?: p.Flex<"div">;
+  group30?: p.Flex<"div">;
+  group25?: p.Flex<"div">;
+  maskGroup12?: p.Flex<"div">;
+  group50671?: p.Flex<"div">;
+  rectangle17?: p.Flex<"div">;
+  rectangle23?: p.Flex<"div">;
+  rectangle24?: p.Flex<"div">;
+  image69?: p.Flex<"div">;
+  rectangle25?: p.Flex<"div">;
+  logoVert4?: p.Flex<"div">;
+  group17?: p.Flex<"div">;
+  group41?: p.Flex<"div">;
+  group24?: p.Flex<"div">;
+  group39?: p.Flex<"div">;
+  group31?: p.Flex<"div">;
+  group32?: p.Flex<"div">;
+  group33?: p.Flex<"div">;
+  group26?: p.Flex<"div">;
+  group34?: p.Flex<"div">;
+  group35?: p.Flex<"div">;
+  group36?: p.Flex<"div">;
+  maskGroup13?: p.Flex<"div">;
+  lauraChouetteVsAd6PfDhbcUnsplash1?: p.Flex<"div">;
+  group37?: p.Flex<"div">;
+  group50696?: p.Flex<"div">;
+  rectangle18?: p.Flex<"div">;
+  group38?: p.Flex<"div">;
+  rectangle11?: p.Flex<"div">;
+  rectangle19?: p.Flex<"div">;
+  group50695?: p.Flex<"div">;
+  group44?: p.Flex<"div">;
+  rectangle12?: p.Flex<"div">;
+  verTodasLojasParceiras?: p.Flex<"div">;
+  group55?: p.Flex<"div">;
+  dicasParaGravarSeusVideos?: p.Flex<"div">;
+  group56?: p.Flex<"div">;
+  vejaQuantoVocePodeGanhar?: p.Flex<"div">;
+  group50749?: p.Flex<"div">;
+  group50690?: p.Flex<"div">;
+  btnComecar?: p.Flex<"div">;
+  rectangle13?: p.Flex<"div">;
+  group42?: p.Flex<"div">;
+  rectangle14?: p.Flex<"div">;
+  rectangle6214?: p.Flex<"div">;
+  group47?: p.Flex<"div">;
+  rectangle15?: p.Flex<"div">;
+  maskGroup14?: p.Flex<"div">;
+  image64?: p.Flex<"div">;
+  maskGroup15?: p.Flex<"div">;
+  image65?: p.Flex<"div">;
+  maskGroup16?: p.Flex<"div">;
+  image66?: p.Flex<"div">;
+  maskGroup17?: p.Flex<"div">;
+  image60?: p.Flex<"div">;
+  maskGroup18?: p.Flex<"div">;
+  image61?: p.Flex<"div">;
+  group50700?: p.Flex<"div">;
+  group58?: p.Flex<"div">;
+  rectangle16?: p.Flex<"div">;
+  maskGroup19?: p.Flex<"div">;
+  image67?: p.Flex<"div">;
+  image68?: p.Flex<"div">;
+  group50685?: p.Flex<"div">;
+  rectangle26?: p.Flex<"div">;
+  maskGroup20?: p.Flex<"div">;
+  image70?: p.Flex<"div">;
+  image71?: p.Flex<"div">;
+  group50689?: p.Flex<"div">;
+  rectangle27?: p.Flex<"div">;
+  maskGroup21?: p.Flex<"div">;
+  image72?: p.Flex<"div">;
+  image76?: p.Flex<"div">;
+  group59?: p.Flex<"div">;
+  rectangle28?: p.Flex<"div">;
+  maskGroup22?: p.Flex<"div">;
+  image77?: p.Flex<"div">;
+  group50686?: p.Flex<"div">;
+  rectangle29?: p.Flex<"div">;
+  maskGroup23?: p.Flex<"div">;
+  image78?: p.Flex<"div">;
+  group50699?: p.Flex<"div">;
+  rectangle6212?: p.Flex<"div">;
+  rodape?: p.Flex<"div">;
+  group50698?: p.Flex<"div">;
+  image79?: p.Flex<"div">;
+  image80?: p.Flex<"div">;
+  image81?: p.Flex<"div">;
+  group50645?: p.Flex<"div">;
+  group50644?: p.Flex<"div">;
+  group50641?: p.Flex<"div">;
+  rectangle6196?: p.Flex<"div">;
+  group50642?: p.Flex<"div">;
+  instagram?: p.Flex<"div">;
+  rectangle6197?: p.Flex<"div">;
+  group50643?: p.Flex<"div">;
+  rectangle6198?: p.Flex<"div">;
+  group50646?: p.Flex<"div">;
+  group60?: p.Flex<"div">;
+  rectangle30?: p.Flex<"div">;
+  group50648?: p.Flex<"div">;
+  rectangle31?: p.Flex<"div">;
+  maskGroup24?: p.Flex<"div">;
+  image82?: p.Flex<"div">;
+  image83?: p.Flex<"div">;
+  group50658?: p.Flex<"div">;
+  rectangle6202?: p.Flex<"div">;
+  rectangle6203?: p.Flex<"div">;
+  group50691?: p.Flex<"div">;
+  rectangle32?: p.Flex<"div">;
+  maskGroup25?: p.Flex<"div">;
+  image84?: p.Flex<"div">;
+  image85?: p.Flex<"div">;
+  group50649?: p.Flex<"div">;
+  rectangle33?: p.Flex<"div">;
+  maskGroup26?: p.Flex<"div">;
+  image86?: p.Flex<"div">;
+  image87?: p.Flex<"div">;
+  image88?: p.Flex<"div">;
+  group50659?: p.Flex<"div">;
+  rectangle6208?: p.Flex<"div">;
+  rectangle6209?: p.Flex<"div">;
+  group50701?: p.Flex<"div">;
+  group46?: p.Flex<"div">;
+  rectangle34?: p.Flex<"div">;
+  maskGroup27?: p.Flex<"div">;
+  pexelsMiriamAlonso75856302?: p.Flex<"div">;
+  group57?: p.Flex<"div">;
+  group51?: p.Flex<"div">;
+  group61?: p.Flex<"div">;
+  group50683?: p.Flex<"div">;
+  group62?: p.Flex<"div">;
+  group40?: p.Flex<"div">;
+  rectangle35?: p.Flex<"div">;
+  maskGroup28?: p.Flex<"div">;
+  image89?: p.Flex<"div">;
+  image90?: p.Flex<"div">;
+  group63?: p.Flex<"div">;
+  rectangle36?: p.Flex<"div">;
+  maskGroup29?: p.Flex<"div">;
+  image91?: p.Flex<"div">;
+  group50651?: p.Flex<"div">;
+  image92?: p.Flex<"div">;
+  group50692?: p.Flex<"div">;
+  group64?: p.Flex<"div">;
+  group65?: p.Flex<"div">;
+  group66?: p.Flex<"div">;
+  group67?: p.Flex<"div">;
+  rectangle37?: p.Flex<"div">;
+  maskGroup30?: p.Flex<"div">;
+  image93?: p.Flex<"div">;
+  group50693?: p.Flex<"div">;
+  btnComecar2?: p.Flex<"div">;
+  rectangle38?: p.Flex<"div">;
+  btnComecar3?: p.Flex<"div">;
+  rectangle39?: p.Flex<"div">;
 };
 
 export interface DefaultHomepageProps {}
@@ -105,55 +404,3192 @@ function PlasmicHomepage__RenderFunc(props: {
             sty.root
           )}
         >
-          <p.Stack
-            as={"section"}
-            data-plasmic-name={"section"}
-            data-plasmic-override={overrides.section}
-            hasGap={true}
-            className={classNames(projectcss.all, sty.section)}
+          <div
+            data-plasmic-name={"telaInicial"}
+            data-plasmic-override={overrides.telaInicial}
+            className={classNames(projectcss.all, sty.telaInicial)}
           >
-            <h1
-              data-plasmic-name={"h1"}
-              data-plasmic-override={overrides.h1}
-              className={classNames(
-                projectcss.all,
-                projectcss.h1,
-                projectcss.__wab_text,
-                sty.h1
-              )}
-            >
-              {"Welcome to your first page."}
-            </h1>
+            <div
+              data-plasmic-name={"rectangle6204"}
+              data-plasmic-override={overrides.rectangle6204}
+              className={classNames(projectcss.all, sty.rectangle6204)}
+            />
 
             <div
-              data-plasmic-name={"text"}
-              data-plasmic-override={overrides.text}
+              data-plasmic-name={"group8"}
+              data-plasmic-override={overrides.group8}
+              className={classNames(projectcss.all, sty.group8)}
+            >
+              <div
+                data-plasmic-name={"rectangle3"}
+                data-plasmic-override={overrides.rectangle3}
+                className={classNames(projectcss.all, sty.rectangle3)}
+              />
+
+              <div
+                data-plasmic-name={"maskGroup"}
+                data-plasmic-override={overrides.maskGroup}
+                className={classNames(projectcss.all, sty.maskGroup)}
+              >
+                <div
+                  data-plasmic-name={"image39"}
+                  data-plasmic-override={overrides.image39}
+                  className={classNames(projectcss.all, sty.image39)}
+                />
+              </div>
+
+              <div
+                data-plasmic-name={"fire"}
+                data-plasmic-override={overrides.fire}
+                className={classNames(projectcss.all, sty.fire)}
+              />
+
+              <div
+                data-plasmic-name={"group10"}
+                data-plasmic-override={overrides.group10}
+                className={classNames(projectcss.all, sty.group10)}
+              >
+                <div
+                  data-plasmic-name={"group3"}
+                  data-plasmic-override={overrides.group3}
+                  className={classNames(projectcss.all, sty.group3)}
+                >
+                  <div
+                    data-plasmic-name={"rectangle4"}
+                    data-plasmic-override={overrides.rectangle4}
+                    className={classNames(projectcss.all, sty.rectangle4)}
+                  />
+
+                  <div
+                    data-plasmic-name={"rectangle5"}
+                    data-plasmic-override={overrides.rectangle5}
+                    className={classNames(projectcss.all, sty.rectangle5)}
+                  />
+                </div>
+
+                <div
+                  data-plasmic-name={"rectangle6"}
+                  data-plasmic-override={overrides.rectangle6}
+                  className={classNames(projectcss.all, sty.rectangle6)}
+                />
+
+                <div
+                  data-plasmic-name={"rectangle7"}
+                  data-plasmic-override={overrides.rectangle7}
+                  className={classNames(projectcss.all, sty.rectangle7)}
+                />
+              </div>
+            </div>
+
+            <div
+              data-plasmic-name={"group9"}
+              data-plasmic-override={overrides.group9}
+              className={classNames(projectcss.all, sty.group9)}
+            >
+              <div
+                data-plasmic-name={"rectangle1"}
+                data-plasmic-override={overrides.rectangle1}
+                className={classNames(projectcss.all, sty.rectangle1)}
+              />
+
+              <div
+                className={classNames(
+                  projectcss.all,
+                  projectcss.__wab_text,
+                  sty.text__uLb8X
+                )}
+              >
+                {"Crie vídeos, avalie suas compras \ne  ganhe cashback"}
+              </div>
+            </div>
+
+            <div
               className={classNames(
                 projectcss.all,
                 projectcss.__wab_text,
-                sty.text
+                sty.text__yqwFd
               )}
             >
-              <React.Fragment>
-                <React.Fragment>
-                  {
-                    "If you haven't already done so, go back and learn the basics by going through the Plasmic Levels tutorial.\n\nIt's always easier to start from examples! Add a new page using a template—do this from the list of pages in the top left (the gray + button).\n\nOr press the big blue + button to start dragging items into this page.\n\nIntegrate this project into your codebase—press the "
-                  }
-                </React.Fragment>
-                <span
-                  className={"plasmic_default__all plasmic_default__span"}
-                  style={{ fontWeight: 700 }}
-                >
-                  {"Code"}
-                </span>
-                <React.Fragment>
-                  {
-                    " button in the top right and follow the quickstart instructions.\n\nJoin our Slack community (icon in bottom left) for help any time."
-                  }
-                </React.Fragment>
-              </React.Fragment>
+              {
+                "Compartilhe suas avaliações nas redes sociais e ganhe cashback em suas compras"
+              }
             </div>
-          </p.Stack>
+
+            <div
+              data-plasmic-name={"group16"}
+              data-plasmic-override={overrides.group16}
+              className={classNames(projectcss.all, sty.group16)}
+            >
+              <p.PlasmicImg
+                alt={""}
+                className={classNames(sty.img__xBdQ5)}
+                displayHeight={"48px" as const}
+                displayMaxHeight={"none" as const}
+                displayMaxWidth={"100%" as const}
+                displayMinHeight={"0" as const}
+                displayMinWidth={"0" as const}
+                displayWidth={"46.079px" as const}
+                loading={"lazy" as const}
+                src={{
+                  src: "/plasmic/blank_project/images/group17.svg",
+                  fullWidth: 46.079,
+                  fullHeight: 48,
+                  aspectRatio: 0.979167
+                }}
+              />
+
+              <CreattRIcon
+                className={classNames(projectcss.all, sty.svg__fkOn3)}
+                role={"img"}
+              />
+            </div>
+
+            <div
+              data-plasmic-name={"group50716"}
+              data-plasmic-override={overrides.group50716}
+              className={classNames(projectcss.all, sty.group50716)}
+            >
+              <div
+                data-plasmic-name={"group50688"}
+                data-plasmic-override={overrides.group50688}
+                className={classNames(projectcss.all, sty.group50688)}
+              >
+                {false ? (
+                  <div
+                    data-plasmic-name={"rectangle2"}
+                    data-plasmic-override={overrides.rectangle2}
+                    className={classNames(projectcss.all, sty.rectangle2)}
+                  />
+                ) : null}
+
+                <div
+                  className={classNames(
+                    projectcss.all,
+                    projectcss.__wab_text,
+                    sty.text__wViHr
+                  )}
+                >
+                  {"Últimas avaliações"}
+                </div>
+              </div>
+
+              <div
+                data-plasmic-name={"group50619"}
+                data-plasmic-override={overrides.group50619}
+                className={classNames(projectcss.all, sty.group50619)}
+              >
+                <div
+                  data-plasmic-name={"maskGroup2"}
+                  data-plasmic-override={overrides.maskGroup2}
+                  className={classNames(projectcss.all, sty.maskGroup2)}
+                >
+                  <div
+                    data-plasmic-name={"image6"}
+                    data-plasmic-override={overrides.image6}
+                    className={classNames(projectcss.all, sty.image6)}
+                  />
+
+                  <div
+                    data-plasmic-name={"image9"}
+                    data-plasmic-override={overrides.image9}
+                    className={classNames(projectcss.all, sty.image9)}
+                  />
+
+                  <div
+                    data-plasmic-name={"image40"}
+                    data-plasmic-override={overrides.image40}
+                    className={classNames(projectcss.all, sty.image40)}
+                  />
+                </div>
+
+                <div
+                  data-plasmic-name={"maskGroup3"}
+                  data-plasmic-override={overrides.maskGroup3}
+                  className={classNames(projectcss.all, sty.maskGroup3)}
+                >
+                  <div
+                    data-plasmic-name={"image7"}
+                    data-plasmic-override={overrides.image7}
+                    className={classNames(projectcss.all, sty.image7)}
+                  />
+
+                  <div
+                    data-plasmic-name={"image8"}
+                    data-plasmic-override={overrides.image8}
+                    className={classNames(projectcss.all, sty.image8)}
+                  />
+
+                  <div
+                    data-plasmic-name={"image74"}
+                    data-plasmic-override={overrides.image74}
+                    className={classNames(projectcss.all, sty.image74)}
+                  />
+                </div>
+
+                <div
+                  data-plasmic-name={"maskGroup4"}
+                  data-plasmic-override={overrides.maskGroup4}
+                  className={classNames(projectcss.all, sty.maskGroup4)}
+                >
+                  <div
+                    data-plasmic-name={"image10"}
+                    data-plasmic-override={overrides.image10}
+                    className={classNames(projectcss.all, sty.image10)}
+                  />
+
+                  <div
+                    data-plasmic-name={"image73"}
+                    data-plasmic-override={overrides.image73}
+                    className={classNames(projectcss.all, sty.image73)}
+                  />
+                </div>
+
+                <div
+                  data-plasmic-name={"maskGroup5"}
+                  data-plasmic-override={overrides.maskGroup5}
+                  className={classNames(projectcss.all, sty.maskGroup5)}
+                >
+                  <div
+                    data-plasmic-name={"image11"}
+                    data-plasmic-override={overrides.image11}
+                    className={classNames(projectcss.all, sty.image11)}
+                  />
+
+                  <div
+                    data-plasmic-name={"image12"}
+                    data-plasmic-override={overrides.image12}
+                    className={classNames(projectcss.all, sty.image12)}
+                  />
+
+                  <div
+                    data-plasmic-name={"image29"}
+                    data-plasmic-override={overrides.image29}
+                    className={classNames(projectcss.all, sty.image29)}
+                  />
+                </div>
+
+                <div
+                  data-plasmic-name={"maskGroup6"}
+                  data-plasmic-override={overrides.maskGroup6}
+                  className={classNames(projectcss.all, sty.maskGroup6)}
+                >
+                  <div
+                    data-plasmic-name={"image13"}
+                    data-plasmic-override={overrides.image13}
+                    className={classNames(projectcss.all, sty.image13)}
+                  />
+
+                  <div
+                    data-plasmic-name={"image14"}
+                    data-plasmic-override={overrides.image14}
+                    className={classNames(projectcss.all, sty.image14)}
+                  />
+
+                  <div
+                    data-plasmic-name={"image15"}
+                    data-plasmic-override={overrides.image15}
+                    className={classNames(projectcss.all, sty.image15)}
+                  />
+
+                  <div
+                    data-plasmic-name={"image30"}
+                    data-plasmic-override={overrides.image30}
+                    className={classNames(projectcss.all, sty.image30)}
+                  />
+                </div>
+
+                <div
+                  data-plasmic-name={"maskGroup7"}
+                  data-plasmic-override={overrides.maskGroup7}
+                  className={classNames(projectcss.all, sty.maskGroup7)}
+                >
+                  <div
+                    data-plasmic-name={"image16"}
+                    data-plasmic-override={overrides.image16}
+                    className={classNames(projectcss.all, sty.image16)}
+                  />
+
+                  <div
+                    data-plasmic-name={"image17"}
+                    data-plasmic-override={overrides.image17}
+                    className={classNames(projectcss.all, sty.image17)}
+                  />
+
+                  <div
+                    data-plasmic-name={"image31"}
+                    data-plasmic-override={overrides.image31}
+                    className={classNames(projectcss.all, sty.image31)}
+                  />
+                </div>
+              </div>
+
+              <div
+                className={classNames(
+                  projectcss.all,
+                  projectcss.__wab_text,
+                  sty.text__hCklJ
+                )}
+              >
+                {"@alexia.kronig"}
+              </div>
+
+              <div
+                className={classNames(
+                  projectcss.all,
+                  projectcss.__wab_text,
+                  sty.text___6H5UZ
+                )}
+              >
+                {"@alexia.kronig"}
+              </div>
+
+              <div
+                className={classNames(
+                  projectcss.all,
+                  projectcss.__wab_text,
+                  sty.text__bnM3B
+                )}
+              >
+                {"@alexia.kronig"}
+              </div>
+
+              <div
+                className={classNames(
+                  projectcss.all,
+                  projectcss.__wab_text,
+                  sty.text__vy2Xg
+                )}
+              >
+                {"@alexia.kronig"}
+              </div>
+
+              <div
+                className={classNames(
+                  projectcss.all,
+                  projectcss.__wab_text,
+                  sty.text__wEdiw
+                )}
+              >
+                {"@alexia.kronig"}
+              </div>
+
+              <div
+                className={classNames(
+                  projectcss.all,
+                  projectcss.__wab_text,
+                  sty.text__lLdaw
+                )}
+              >
+                {"@alexia.kronig"}
+              </div>
+            </div>
+
+            <div
+              data-plasmic-name={"group5"}
+              data-plasmic-override={overrides.group5}
+              className={classNames(projectcss.all, sty.group5)}
+            >
+              <div
+                data-plasmic-name={"group4"}
+                data-plasmic-override={overrides.group4}
+                className={classNames(projectcss.all, sty.group4)}
+              >
+                <UnionIcon
+                  className={classNames(projectcss.all, sty.svg__t9RMb)}
+                  role={"img"}
+                />
+
+                <div
+                  className={classNames(
+                    projectcss.all,
+                    projectcss.__wab_text,
+                    sty.text__ylFn
+                  )}
+                >
+                  {"Que lindo, eu amei. Onde vc comprou?"}
+                </div>
+
+                <div
+                  data-plasmic-name={"group2"}
+                  data-plasmic-override={overrides.group2}
+                  className={classNames(projectcss.all, sty.group2)}
+                >
+                  <Ellipse4Icon
+                    className={classNames(projectcss.all, sty.svg__z0TvK)}
+                    role={"img"}
+                  />
+
+                  <p.PlasmicImg
+                    alt={""}
+                    className={classNames(sty.img__pdNe8)}
+                    displayHeight={"38.386px" as const}
+                    displayMaxHeight={"none" as const}
+                    displayMaxWidth={"100%" as const}
+                    displayMinHeight={"0" as const}
+                    displayMinWidth={"0" as const}
+                    displayWidth={"32.602px" as const}
+                    loading={"lazy" as const}
+                    src={{
+                      src: "/plasmic/blank_project/images/group.svg",
+                      fullWidth: 32.602,
+                      fullHeight: 38.386,
+                      aspectRatio: 0.846154
+                    }}
+                  />
+                </div>
+              </div>
+
+              <div
+                data-plasmic-name={"group6"}
+                data-plasmic-override={overrides.group6}
+                className={classNames(projectcss.all, sty.group6)}
+              >
+                <Union2Icon
+                  className={classNames(projectcss.all, sty.svg__grWy)}
+                  role={"img"}
+                />
+
+                <p.PlasmicImg
+                  alt={""}
+                  className={classNames(sty.img__ogDzj)}
+                  displayHeight={"68.655px" as const}
+                  displayMaxHeight={"none" as const}
+                  displayMaxWidth={"100%" as const}
+                  displayMinHeight={"0" as const}
+                  displayMinWidth={"0" as const}
+                  displayWidth={"68.655px" as const}
+                  loading={"lazy" as const}
+                  src={{
+                    src: "/plasmic/blank_project/images/group1.svg",
+                    fullWidth: 68.655,
+                    fullHeight: 68.655,
+                    aspectRatio: 1
+                  }}
+                />
+
+                <div
+                  className={classNames(
+                    projectcss.all,
+                    projectcss.__wab_text,
+                    sty.text__hxCmb
+                  )}
+                >
+                  {"Que cor é essa?"}
+                </div>
+              </div>
+
+              <div
+                data-plasmic-name={"group7"}
+                data-plasmic-override={overrides.group7}
+                className={classNames(projectcss.all, sty.group7)}
+              >
+                <Union3Icon
+                  className={classNames(projectcss.all, sty.svg__b3MfD)}
+                  role={"img"}
+                />
+
+                <div
+                  className={classNames(
+                    projectcss.all,
+                    projectcss.__wab_text,
+                    sty.text__dYem
+                  )}
+                >
+                  {"Arrasou. #quero"}
+                </div>
+
+                <div
+                  data-plasmic-name={"group11"}
+                  data-plasmic-override={overrides.group11}
+                  className={classNames(projectcss.all, sty.group11)}
+                >
+                  <div
+                    data-plasmic-name={"group12"}
+                    data-plasmic-override={overrides.group12}
+                    className={classNames(projectcss.all, sty.group12)}
+                  >
+                    <Ellipse5Icon
+                      className={classNames(projectcss.all, sty.svg___4ONjC)}
+                      role={"img"}
+                    />
+
+                    <p.PlasmicImg
+                      alt={""}
+                      className={classNames(sty.img__fweVe)}
+                      displayHeight={"43.838px" as const}
+                      displayMaxHeight={"none" as const}
+                      displayMaxWidth={"100%" as const}
+                      displayMinHeight={"0" as const}
+                      displayMinWidth={"0" as const}
+                      displayWidth={"47.785px" as const}
+                      loading={"lazy" as const}
+                      src={{
+                        src: "/plasmic/blank_project/images/group50697.svg",
+                        fullWidth: 47.785,
+                        fullHeight: 43.838,
+                        aspectRatio: 1.090909
+                      }}
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            {false ? (
+              <div
+                data-plasmic-name={"group50684"}
+                data-plasmic-override={overrides.group50684}
+                className={classNames(projectcss.all, sty.group50684)}
+              >
+                <div
+                  data-plasmic-name={"group43"}
+                  data-plasmic-override={overrides.group43}
+                  className={classNames(projectcss.all, sty.group43)}
+                >
+                  <div
+                    data-plasmic-name={"rectangle8"}
+                    data-plasmic-override={overrides.rectangle8}
+                    className={classNames(projectcss.all, sty.rectangle8)}
+                  />
+
+                  <div
+                    className={classNames(
+                      projectcss.all,
+                      projectcss.__wab_text,
+                      sty.text__khPp5
+                    )}
+                  >
+                    {
+                      "@Bianca\nAdorei essa saia, veste super bem. Super aprovada gente!\n#recomendo #creator"
+                    }
+                  </div>
+
+                  <div
+                    className={classNames(
+                      projectcss.all,
+                      projectcss.__wab_text,
+                      sty.text__kuEI
+                    )}
+                  >
+                    {
+                      "@Bianca\nAdorei essa saia, veste super bem. Super aprovada gente!\n#recomendo #creator"
+                    }
+                  </div>
+
+                  <div
+                    data-plasmic-name={"maskGroup8"}
+                    data-plasmic-override={overrides.maskGroup8}
+                    className={classNames(projectcss.all, sty.maskGroup8)}
+                  >
+                    <div
+                      data-plasmic-name={"pexelsMiriamAlonso75856301"}
+                      data-plasmic-override={
+                        overrides.pexelsMiriamAlonso75856301
+                      }
+                      className={classNames(
+                        projectcss.all,
+                        sty.pexelsMiriamAlonso75856301
+                      )}
+                    />
+                  </div>
+
+                  <div
+                    data-plasmic-name={"group53"}
+                    data-plasmic-override={overrides.group53}
+                    className={classNames(projectcss.all, sty.group53)}
+                  >
+                    <Ellipse17Icon
+                      className={classNames(projectcss.all, sty.svg__s7HC)}
+                      role={"img"}
+                    />
+
+                    <ShareIconIcon
+                      className={classNames(projectcss.all, sty.svg__qcgX)}
+                      role={"img"}
+                    />
+                  </div>
+
+                  <div
+                    data-plasmic-name={"group49"}
+                    data-plasmic-override={overrides.group49}
+                    className={classNames(projectcss.all, sty.group49)}
+                  >
+                    <Ellipse18Icon
+                      className={classNames(projectcss.all, sty.svg__k1LdT)}
+                      role={"img"}
+                    />
+
+                    <p.PlasmicImg
+                      alt={""}
+                      className={classNames(sty.img___7Xbrb)}
+                      displayHeight={"23.258px" as const}
+                      displayMaxHeight={"none" as const}
+                      displayMaxWidth={"100%" as const}
+                      displayMinHeight={"0" as const}
+                      displayMinWidth={"0" as const}
+                      displayWidth={"24.5px" as const}
+                      loading={"lazy" as const}
+                      src={{
+                        src: "/plasmic/blank_project/images/messageIcon.svg",
+                        fullWidth: 24.5,
+                        fullHeight: 23.258,
+                        aspectRatio: 1.041667
+                      }}
+                    />
+                  </div>
+
+                  <div
+                    data-plasmic-name={"group54"}
+                    data-plasmic-override={overrides.group54}
+                    className={classNames(projectcss.all, sty.group54)}
+                  >
+                    <Ellipse19Icon
+                      className={classNames(projectcss.all, sty.svg__mYaZ)}
+                      role={"img"}
+                    />
+
+                    <ShareIcon2Icon
+                      className={classNames(projectcss.all, sty.svg__v4DZ7)}
+                      role={"img"}
+                    />
+                  </div>
+                </div>
+
+                <div
+                  data-plasmic-name={"group50682"}
+                  data-plasmic-override={overrides.group50682}
+                  className={classNames(projectcss.all, sty.group50682)}
+                >
+                  <p.PlasmicImg
+                    alt={""}
+                    className={classNames(sty.img__umkBf)}
+                    displayHeight={"31.749px" as const}
+                    displayMaxHeight={"none" as const}
+                    displayMaxWidth={"100%" as const}
+                    displayMinHeight={"0" as const}
+                    displayMinWidth={"0" as const}
+                    displayWidth={"31.749px" as const}
+                    loading={"lazy" as const}
+                    src={{
+                      src: "/plasmic/blank_project/images/group51.svg",
+                      fullWidth: 31.749,
+                      fullHeight: 31.749,
+                      aspectRatio: 1
+                    }}
+                  />
+
+                  <p.PlasmicImg
+                    alt={""}
+                    className={classNames(sty.img___5UkLy)}
+                    displayHeight={"45px" as const}
+                    displayMaxHeight={"none" as const}
+                    displayMaxWidth={"100%" as const}
+                    displayMinHeight={"0" as const}
+                    displayMinWidth={"0" as const}
+                    displayWidth={"45px" as const}
+                    loading={"lazy" as const}
+                    src={{
+                      src: "/plasmic/blank_project/images/group46.svg",
+                      fullWidth: 45,
+                      fullHeight: 45,
+                      aspectRatio: 1
+                    }}
+                  />
+
+                  <div
+                    data-plasmic-name={"group52"}
+                    data-plasmic-override={overrides.group52}
+                    className={classNames(projectcss.all, sty.group52)}
+                  >
+                    <Ellipse20Icon
+                      className={classNames(projectcss.all, sty.svg__rXIlu)}
+                      role={"img"}
+                    />
+
+                    <ShareIcon3Icon
+                      className={classNames(projectcss.all, sty.svg__i4Xba)}
+                      role={"img"}
+                    />
+                  </div>
+
+                  <div
+                    data-plasmic-name={"group28"}
+                    data-plasmic-override={overrides.group28}
+                    className={classNames(projectcss.all, sty.group28)}
+                  >
+                    <div
+                      data-plasmic-name={"rectangle20"}
+                      data-plasmic-override={overrides.rectangle20}
+                      className={classNames(projectcss.all, sty.rectangle20)}
+                    />
+
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__nkXFg
+                      )}
+                    >
+                      {"Leonardo\n+ 15 compartilharam"}
+                    </div>
+
+                    <div
+                      data-plasmic-name={"maskGroup9"}
+                      data-plasmic-override={overrides.maskGroup9}
+                      className={classNames(projectcss.all, sty.maskGroup9)}
+                    >
+                      <div
+                        data-plasmic-name={"image51"}
+                        data-plasmic-override={overrides.image51}
+                        className={classNames(projectcss.all, sty.image51)}
+                      />
+
+                      <div
+                        data-plasmic-name={"image52"}
+                        data-plasmic-override={overrides.image52}
+                        className={classNames(projectcss.all, sty.image52)}
+                      />
+                    </div>
+                  </div>
+
+                  <div
+                    data-plasmic-name={"group29"}
+                    data-plasmic-override={overrides.group29}
+                    className={classNames(projectcss.all, sty.group29)}
+                  >
+                    <div
+                      data-plasmic-name={"rectangle21"}
+                      data-plasmic-override={overrides.rectangle21}
+                      className={classNames(projectcss.all, sty.rectangle21)}
+                    />
+
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__qkG4Z
+                      )}
+                    >
+                      {"Patrícia\n+ 100 gostaram"}
+                    </div>
+
+                    <div
+                      data-plasmic-name={"maskGroup10"}
+                      data-plasmic-override={overrides.maskGroup10}
+                      className={classNames(projectcss.all, sty.maskGroup10)}
+                    >
+                      <div
+                        data-plasmic-name={"image53"}
+                        data-plasmic-override={overrides.image53}
+                        className={classNames(projectcss.all, sty.image53)}
+                      />
+
+                      <div
+                        data-plasmic-name={"image54"}
+                        data-plasmic-override={overrides.image54}
+                        className={classNames(projectcss.all, sty.image54)}
+                      />
+
+                      <div
+                        data-plasmic-name={"image55"}
+                        data-plasmic-override={overrides.image55}
+                        className={classNames(projectcss.all, sty.image55)}
+                      />
+                    </div>
+                  </div>
+
+                  <p.PlasmicImg
+                    alt={""}
+                    className={classNames(sty.img__ab4Fp)}
+                    displayHeight={"45px" as const}
+                    displayMaxHeight={"none" as const}
+                    displayMaxWidth={"100%" as const}
+                    displayMinHeight={"0" as const}
+                    displayMinWidth={"0" as const}
+                    displayWidth={"45px" as const}
+                    loading={"lazy" as const}
+                    src={{
+                      src: "/plasmic/blank_project/images/group46.svg",
+                      fullWidth: 45,
+                      fullHeight: 45,
+                      aspectRatio: 1
+                    }}
+                  />
+
+                  <div
+                    data-plasmic-name={"group50650"}
+                    data-plasmic-override={overrides.group50650}
+                    className={classNames(projectcss.all, sty.group50650)}
+                  >
+                    <Ellipse21Icon
+                      className={classNames(projectcss.all, sty.svg__orf6V)}
+                      role={"img"}
+                    />
+
+                    <div
+                      data-plasmic-name={"image75"}
+                      data-plasmic-override={overrides.image75}
+                      className={classNames(projectcss.all, sty.image75)}
+                    />
+                  </div>
+
+                  <p.PlasmicImg
+                    alt={""}
+                    className={classNames(sty.img__zPhS5)}
+                    displayHeight={"62px" as const}
+                    displayMaxHeight={"none" as const}
+                    displayMaxWidth={"100%" as const}
+                    displayMinHeight={"0" as const}
+                    displayMinWidth={"0" as const}
+                    displayWidth={"62px" as const}
+                    loading={"lazy" as const}
+                    src={{
+                      src: "/plasmic/blank_project/images/group50651.svg",
+                      fullWidth: 62,
+                      fullHeight: 62,
+                      aspectRatio: 1
+                    }}
+                  />
+                </div>
+
+                <div
+                  data-plasmic-name={"group50681"}
+                  data-plasmic-override={overrides.group50681}
+                  className={classNames(projectcss.all, sty.group50681)}
+                >
+                  <div
+                    data-plasmic-name={"group45"}
+                    data-plasmic-override={overrides.group45}
+                    className={classNames(projectcss.all, sty.group45)}
+                  >
+                    <Ellipse22Icon
+                      className={classNames(projectcss.all, sty.svg__noMwg)}
+                      role={"img"}
+                    />
+
+                    <p.PlasmicImg
+                      alt={""}
+                      className={classNames(sty.img__x9GJl)}
+                      displayHeight={"39.317px" as const}
+                      displayMaxHeight={"none" as const}
+                      displayMaxWidth={"100%" as const}
+                      displayMinHeight={"0" as const}
+                      displayMinWidth={"0" as const}
+                      displayWidth={"41.416px" as const}
+                      loading={"lazy" as const}
+                      src={{
+                        src: "/plasmic/blank_project/images/messageIcon2.svg",
+                        fullWidth: 41.416,
+                        fullHeight: 39.317,
+                        aspectRatio: 1.05
+                      }}
+                    />
+                  </div>
+
+                  <div
+                    data-plasmic-name={"group48"}
+                    data-plasmic-override={overrides.group48}
+                    className={classNames(projectcss.all, sty.group48)}
+                  >
+                    <Ellipse23Icon
+                      className={classNames(projectcss.all, sty.svg__zkh5)}
+                      role={"img"}
+                    />
+
+                    <p.PlasmicImg
+                      alt={""}
+                      className={classNames(sty.img___7K7Aa)}
+                      displayHeight={"18.222px" as const}
+                      displayMaxHeight={"none" as const}
+                      displayMaxWidth={"100%" as const}
+                      displayMinHeight={"0" as const}
+                      displayMinWidth={"0" as const}
+                      displayWidth={"19.195px" as const}
+                      loading={"lazy" as const}
+                      src={{
+                        src: "/plasmic/blank_project/images/messageIcon3.svg",
+                        fullWidth: 19.195,
+                        fullHeight: 18.222,
+                        aspectRatio: 1.052632
+                      }}
+                    />
+                  </div>
+
+                  <div
+                    data-plasmic-name={"group50"}
+                    data-plasmic-override={overrides.group50}
+                    className={classNames(projectcss.all, sty.group50)}
+                  >
+                    <Ellipse18Icon
+                      className={classNames(projectcss.all, sty.svg__n1Rlf)}
+                      role={"img"}
+                    />
+
+                    <p.PlasmicImg
+                      alt={""}
+                      className={classNames(sty.img__zt02H)}
+                      displayHeight={"23.258px" as const}
+                      displayMaxHeight={"none" as const}
+                      displayMaxWidth={"100%" as const}
+                      displayMinHeight={"0" as const}
+                      displayMinWidth={"0" as const}
+                      displayWidth={"24.5px" as const}
+                      loading={"lazy" as const}
+                      src={{
+                        src: "/plasmic/blank_project/images/messageIcon.svg",
+                        fullWidth: 24.5,
+                        fullHeight: 23.258,
+                        aspectRatio: 1.041667
+                      }}
+                    />
+                  </div>
+
+                  <div
+                    data-plasmic-name={"group27"}
+                    data-plasmic-override={overrides.group27}
+                    className={classNames(projectcss.all, sty.group27)}
+                  >
+                    <div
+                      data-plasmic-name={"rectangle22"}
+                      data-plasmic-override={overrides.rectangle22}
+                      className={classNames(projectcss.all, sty.rectangle22)}
+                    />
+
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text___7IhGs
+                      )}
+                    >
+                      {"Bruna\n+ 32 comentaram"}
+                    </div>
+
+                    <div
+                      data-plasmic-name={"maskGroup11"}
+                      data-plasmic-override={overrides.maskGroup11}
+                      className={classNames(projectcss.all, sty.maskGroup11)}
+                    >
+                      <div
+                        data-plasmic-name={"image56"}
+                        data-plasmic-override={overrides.image56}
+                        className={classNames(projectcss.all, sty.image56)}
+                      />
+                    </div>
+                  </div>
+
+                  <p.PlasmicImg
+                    alt={""}
+                    className={classNames(sty.img__ozC)}
+                    displayHeight={"61px" as const}
+                    displayMaxHeight={"none" as const}
+                    displayMaxWidth={"100%" as const}
+                    displayMinHeight={"0" as const}
+                    displayMinWidth={"0" as const}
+                    displayWidth={"61px" as const}
+                    loading={"lazy" as const}
+                    src={{
+                      src: "/plasmic/blank_project/images/group50647.svg",
+                      fullWidth: 61,
+                      fullHeight: 61,
+                      aspectRatio: 1
+                    }}
+                  />
+
+                  <p.PlasmicImg
+                    alt={""}
+                    className={classNames(sty.img__erRli)}
+                    displayHeight={"66.506px" as const}
+                    displayMaxHeight={"none" as const}
+                    displayMaxWidth={"100%" as const}
+                    displayMinHeight={"0" as const}
+                    displayMinWidth={"0" as const}
+                    displayWidth={"73.11px" as const}
+                    loading={"lazy" as const}
+                    src={{
+                      src: "/plasmic/blank_project/images/youtube.svg",
+                      fullWidth: 73.11,
+                      fullHeight: 66.506,
+                      aspectRatio: 1.104478
+                    }}
+                  />
+                </div>
+              </div>
+            ) : null}
+
+            <div
+              data-plasmic-name={
+                "paginaIncialComoFuncionaLojasParceirasCreattors"
+              }
+              data-plasmic-override={
+                overrides.paginaIncialComoFuncionaLojasParceirasCreattors
+              }
+              className={classNames(
+                projectcss.all,
+                projectcss.__wab_text,
+                sty.paginaIncialComoFuncionaLojasParceirasCreattors
+              )}
+            >
+              {
+                "Página Incial       Como funciona?       Lojas Parceiras       Creattors "
+              }
+            </div>
+
+            <div
+              className={classNames(
+                projectcss.all,
+                projectcss.__wab_text,
+                sty.text___8MUya
+              )}
+            >
+              {"Login"}
+            </div>
+
+            <Group50670Icon
+              className={classNames(projectcss.all, sty.svg__cNb4Q)}
+              role={"img"}
+            />
+
+            <div
+              data-plasmic-name={"rectangle6213"}
+              data-plasmic-override={overrides.rectangle6213}
+              className={classNames(projectcss.all, sty.rectangle6213)}
+            />
+
+            <div
+              data-plasmic-name={"group50687"}
+              data-plasmic-override={overrides.group50687}
+              className={classNames(projectcss.all, sty.group50687)}
+            >
+              {false ? (
+                <div
+                  data-plasmic-name={"rectangle9"}
+                  data-plasmic-override={overrides.rectangle9}
+                  className={classNames(projectcss.all, sty.rectangle9)}
+                />
+              ) : null}
+
+              <div
+                data-plasmic-name={"rectangle10"}
+                data-plasmic-override={overrides.rectangle10}
+                className={classNames(projectcss.all, sty.rectangle10)}
+              />
+
+              <div
+                className={classNames(
+                  projectcss.all,
+                  projectcss.__wab_text,
+                  sty.text__fcaOv
+                )}
+              >
+                {"Comece a  ganhar"}
+              </div>
+            </div>
+
+            <div
+              data-plasmic-name={"group50751"}
+              data-plasmic-override={overrides.group50751}
+              className={classNames(projectcss.all, sty.group50751)}
+            >
+              <div
+                data-plasmic-name={"rectangle6205"}
+                data-plasmic-override={overrides.rectangle6205}
+                className={classNames(projectcss.all, sty.rectangle6205)}
+              />
+
+              <div
+                data-plasmic-name={"rectangle6206"}
+                data-plasmic-override={overrides.rectangle6206}
+                className={classNames(projectcss.all, sty.rectangle6206)}
+              />
+
+              <div
+                data-plasmic-name={"rectangle6207"}
+                data-plasmic-override={overrides.rectangle6207}
+                className={classNames(projectcss.all, sty.rectangle6207)}
+              />
+
+              <div
+                data-plasmic-name={"group30"}
+                data-plasmic-override={overrides.group30}
+                className={classNames(projectcss.all, sty.group30)}
+              >
+                <div
+                  className={classNames(
+                    projectcss.all,
+                    projectcss.__wab_text,
+                    sty.text__qUvqa
+                  )}
+                >
+                  {"Envie pra gente \ne comece a  ganhar"}
+                </div>
+              </div>
+
+              <div
+                className={classNames(
+                  projectcss.all,
+                  projectcss.__wab_text,
+                  sty.text__jegAw
+                )}
+              >
+                {
+                  "Se o seu vídeo for aprovado, você recebe cashback em dinheiro direto na sua conta"
+                }
+              </div>
+
+              <div
+                data-plasmic-name={"group25"}
+                data-plasmic-override={overrides.group25}
+                className={classNames(projectcss.all, sty.group25)}
+              >
+                <div
+                  className={classNames(
+                    projectcss.all,
+                    projectcss.__wab_text,
+                    sty.text__biqTh
+                  )}
+                >
+                  {"Faça uma avaliação \nem  vídeo"}
+                </div>
+              </div>
+
+              <div
+                className={classNames(
+                  projectcss.all,
+                  projectcss.__wab_text,
+                  sty.text__iHzmj
+                )}
+              >
+                {
+                  "Use a criatividade e grave um vídeo com sua opnião sobre o produto que comprou"
+                }
+              </div>
+
+              <div
+                data-plasmic-name={"maskGroup12"}
+                data-plasmic-override={overrides.maskGroup12}
+                className={classNames(projectcss.all, sty.maskGroup12)}
+              >
+                <div
+                  data-plasmic-name={"group50671"}
+                  data-plasmic-override={overrides.group50671}
+                  className={classNames(projectcss.all, sty.group50671)}
+                >
+                  <div
+                    data-plasmic-name={"rectangle17"}
+                    data-plasmic-override={overrides.rectangle17}
+                    className={classNames(projectcss.all, sty.rectangle17)}
+                  />
+
+                  <div
+                    data-plasmic-name={"rectangle23"}
+                    data-plasmic-override={overrides.rectangle23}
+                    className={classNames(projectcss.all, sty.rectangle23)}
+                  />
+
+                  <Group2Icon
+                    className={classNames(projectcss.all, sty.svg__lsJaP)}
+                    role={"img"}
+                  />
+
+                  <div
+                    data-plasmic-name={"rectangle24"}
+                    data-plasmic-override={overrides.rectangle24}
+                    className={classNames(projectcss.all, sty.rectangle24)}
+                  />
+
+                  <div
+                    data-plasmic-name={"image69"}
+                    data-plasmic-override={overrides.image69}
+                    className={classNames(projectcss.all, sty.image69)}
+                  />
+
+                  <div
+                    data-plasmic-name={"rectangle25"}
+                    data-plasmic-override={overrides.rectangle25}
+                    className={classNames(projectcss.all, sty.rectangle25)}
+                  />
+
+                  <div
+                    data-plasmic-name={"logoVert4"}
+                    data-plasmic-override={overrides.logoVert4}
+                    className={classNames(projectcss.all, sty.logoVert4)}
+                  >
+                    <Group501Icon
+                      className={classNames(projectcss.all, sty.svg___8Dnyx)}
+                      role={"img"}
+                    />
+                  </div>
+                </div>
+              </div>
+
+              <div
+                data-plasmic-name={"group17"}
+                data-plasmic-override={overrides.group17}
+                className={classNames(projectcss.all, sty.group17)}
+              >
+                <div
+                  className={classNames(
+                    projectcss.all,
+                    projectcss.__wab_text,
+                    sty.text__fkHyD
+                  )}
+                >
+                  {"Compre  um produto"}
+                </div>
+              </div>
+
+              <div
+                className={classNames(
+                  projectcss.all,
+                  projectcss.__wab_text,
+                  sty.text__fnFjN
+                )}
+              >
+                {"De uma de nossas lojas on-line parceiras"}
+              </div>
+
+              <div
+                data-plasmic-name={"group41"}
+                data-plasmic-override={overrides.group41}
+                className={classNames(projectcss.all, sty.group41)}
+              >
+                <p.PlasmicImg
+                  alt={""}
+                  className={classNames(sty.img__vgIq0)}
+                  displayHeight={"258.786px" as const}
+                  displayMaxHeight={"none" as const}
+                  displayMaxWidth={"100%" as const}
+                  displayMinHeight={"0" as const}
+                  displayMinWidth={"0" as const}
+                  displayWidth={"166.982px" as const}
+                  loading={"lazy" as const}
+                  src={{
+                    src: "/plasmic/blank_project/images/maskGroup.svg",
+                    fullWidth: 166.982,
+                    fullHeight: 258.786,
+                    aspectRatio: 0.644788
+                  }}
+                />
+
+                <div
+                  data-plasmic-name={"group24"}
+                  data-plasmic-override={overrides.group24}
+                  className={classNames(projectcss.all, sty.group24)}
+                >
+                  <Rectangle17Icon
+                    className={classNames(projectcss.all, sty.svg__v7SuL)}
+                    role={"img"}
+                  />
+
+                  <p.PlasmicImg
+                    alt={""}
+                    className={classNames(sty.img__y4M4O)}
+                    displayHeight={"73px" as const}
+                    displayMaxHeight={"none" as const}
+                    displayMaxWidth={"100%" as const}
+                    displayMinHeight={"0" as const}
+                    displayMinWidth={"0" as const}
+                    displayWidth={"83px" as const}
+                    loading={"lazy" as const}
+                    src={{
+                      src: "/plasmic/blank_project/images/image44.svg",
+                      fullWidth: 83,
+                      fullHeight: 73,
+                      aspectRatio: 1.136986
+                    }}
+                  />
+
+                  <BlusinhaIcon
+                    className={classNames(projectcss.all, sty.svg___4Z1V)}
+                    role={"img"}
+                  />
+
+                  <_109Icon
+                    className={classNames(projectcss.all, sty.svg__hxr0A)}
+                    role={"img"}
+                  />
+
+                  <Rectangle18Icon
+                    className={classNames(projectcss.all, sty.svg__lgnpj)}
+                    role={"img"}
+                  />
+
+                  <ComprarIcon
+                    className={classNames(projectcss.all, sty.svg___1QpsJ)}
+                    role={"img"}
+                  />
+
+                  <Group23Icon
+                    className={classNames(projectcss.all, sty.svg__xo21F)}
+                    role={"img"}
+                  />
+                </div>
+
+                <Vector1Icon
+                  className={classNames(projectcss.all, sty.svg__u9RIr)}
+                  role={"img"}
+                />
+              </div>
+
+              <div
+                data-plasmic-name={"group39"}
+                data-plasmic-override={overrides.group39}
+                className={classNames(projectcss.all, sty.group39)}
+              >
+                <Rectangle3StrokeIcon
+                  className={classNames(projectcss.all, sty.svg__jo7B)}
+                  role={"img"}
+                />
+
+                <p.PlasmicImg
+                  alt={""}
+                  className={classNames(sty.img__kQMfC)}
+                  displayHeight={"284.502px" as const}
+                  displayMaxHeight={"none" as const}
+                  displayMaxWidth={"100%" as const}
+                  displayMinHeight={"0" as const}
+                  displayMinWidth={"0" as const}
+                  displayWidth={"215.461px" as const}
+                  loading={"lazy" as const}
+                  src={{
+                    src: "/plasmic/blank_project/images/maskGroup2.svg",
+                    fullWidth: 215.461,
+                    fullHeight: 284.502,
+                    aspectRatio: 0.757895
+                  }}
+                />
+
+                <div
+                  data-plasmic-name={"group31"}
+                  data-plasmic-override={overrides.group31}
+                  className={classNames(projectcss.all, sty.group31)}
+                >
+                  <Rectangle20Icon
+                    className={classNames(projectcss.all, sty.svg__mguOu)}
+                    role={"img"}
+                  />
+
+                  <BrunaAdorouIssoIcon
+                    className={classNames(projectcss.all, sty.svg__aem95)}
+                    role={"img"}
+                  />
+
+                  <p.PlasmicImg
+                    alt={""}
+                    className={classNames(sty.img__nEoZq)}
+                    displayHeight={"27.604px" as const}
+                    displayMaxHeight={"none" as const}
+                    displayMaxWidth={"100%" as const}
+                    displayMinHeight={"0" as const}
+                    displayMinWidth={"0" as const}
+                    displayWidth={"27.604px" as const}
+                    loading={"lazy" as const}
+                    src={{
+                      src: "/plasmic/blank_project/images/maskGroup3.svg",
+                      fullWidth: 27.604,
+                      fullHeight: 27.604,
+                      aspectRatio: 1
+                    }}
+                  />
+                </div>
+
+                <div
+                  data-plasmic-name={"group32"}
+                  data-plasmic-override={overrides.group32}
+                  className={classNames(projectcss.all, sty.group32)}
+                >
+                  <Rectangle21Icon
+                    className={classNames(projectcss.all, sty.svg__zWvwH)}
+                    role={"img"}
+                  />
+
+                  <LeonardoCurtiuIssoIcon
+                    className={classNames(projectcss.all, sty.svg__bOyYc)}
+                    role={"img"}
+                  />
+
+                  <p.PlasmicImg
+                    alt={""}
+                    className={classNames(sty.img___5M6Dd)}
+                    displayHeight={"30.589px" as const}
+                    displayMaxHeight={"none" as const}
+                    displayMaxWidth={"100%" as const}
+                    displayMinHeight={"0" as const}
+                    displayMinWidth={"0" as const}
+                    displayWidth={"30.589px" as const}
+                    loading={"lazy" as const}
+                    src={{
+                      src: "/plasmic/blank_project/images/maskGroup4.svg",
+                      fullWidth: 30.589,
+                      fullHeight: 30.589,
+                      aspectRatio: 1
+                    }}
+                  />
+                </div>
+
+                <div
+                  data-plasmic-name={"group33"}
+                  data-plasmic-override={overrides.group33}
+                  className={classNames(projectcss.all, sty.group33)}
+                >
+                  <Rectangle22Icon
+                    className={classNames(projectcss.all, sty.svg__tIlq4)}
+                    role={"img"}
+                  />
+
+                  <PatriciaGostouDissoIcon
+                    className={classNames(projectcss.all, sty.svg__fSLhf)}
+                    role={"img"}
+                  />
+
+                  <p.PlasmicImg
+                    alt={""}
+                    className={classNames(sty.img__yLjua)}
+                    displayHeight={"29.413px" as const}
+                    displayMaxHeight={"none" as const}
+                    displayMaxWidth={"100%" as const}
+                    displayMinHeight={"0" as const}
+                    displayMinWidth={"0" as const}
+                    displayWidth={"29.413px" as const}
+                    loading={"lazy" as const}
+                    src={{
+                      src: "/plasmic/blank_project/images/maskGroup5.svg",
+                      fullWidth: 29.413,
+                      fullHeight: 29.413,
+                      aspectRatio: 1
+                    }}
+                  />
+                </div>
+
+                <div
+                  data-plasmic-name={"group26"}
+                  data-plasmic-override={overrides.group26}
+                  className={classNames(projectcss.all, sty.group26)}
+                >
+                  <Ellipse9Icon
+                    className={classNames(projectcss.all, sty.svg__ikQrS)}
+                    role={"img"}
+                  />
+
+                  <p.PlasmicImg
+                    alt={""}
+                    className={classNames(sty.img__gRbZ)}
+                    displayHeight={"72px" as const}
+                    displayMaxHeight={"none" as const}
+                    displayMaxWidth={"100%" as const}
+                    displayMinHeight={"0" as const}
+                    displayMinWidth={"0" as const}
+                    displayWidth={"44px" as const}
+                    loading={"lazy" as const}
+                    src={{
+                      src: "/plasmic/blank_project/images/ellipse12Stroke.svg",
+                      fullWidth: 44,
+                      fullHeight: 72,
+                      aspectRatio: 0.611111
+                    }}
+                  />
+
+                  {false ? (
+                    <Ellipse10StrokeIcon
+                      className={classNames(projectcss.all, sty.svg__wKVjL)}
+                      role={"img"}
+                    />
+                  ) : null}
+
+                  <Ellipse11Icon
+                    className={classNames(projectcss.all, sty.svg__ka1J)}
+                    role={"img"}
+                  />
+
+                  <Group31Icon
+                    className={classNames(projectcss.all, sty.svg__xU3TH)}
+                    role={"img"}
+                  />
+
+                  <Ellipse15Icon
+                    className={classNames(projectcss.all, sty.svg__jIhac)}
+                    role={"img"}
+                  />
+                </div>
+
+                <p.PlasmicImg
+                  alt={""}
+                  className={classNames(sty.img__wxaqx)}
+                  displayHeight={"54.673px" as const}
+                  displayMaxHeight={"none" as const}
+                  displayMaxWidth={"100%" as const}
+                  displayMinHeight={"0" as const}
+                  displayMinWidth={"0" as const}
+                  displayWidth={"54.673px" as const}
+                  loading={"lazy" as const}
+                  src={{
+                    src: "/plasmic/blank_project/images/group3.svg",
+                    fullWidth: 54.673,
+                    fullHeight: 54.673,
+                    aspectRatio: 1
+                  }}
+                />
+
+                <div
+                  data-plasmic-name={"group34"}
+                  data-plasmic-override={overrides.group34}
+                  className={classNames(projectcss.all, sty.group34)}
+                >
+                  <div
+                    data-plasmic-name={"group35"}
+                    data-plasmic-override={overrides.group35}
+                    className={classNames(projectcss.all, sty.group35)}
+                  >
+                    <Ellipse6Icon
+                      className={classNames(projectcss.all, sty.svg__kpwTb)}
+                      role={"img"}
+                    />
+
+                    <Group4Icon
+                      className={classNames(projectcss.all, sty.svg___9F8E4)}
+                      role={"img"}
+                    />
+                  </div>
+                </div>
+
+                <div
+                  data-plasmic-name={"group36"}
+                  data-plasmic-override={overrides.group36}
+                  className={classNames(projectcss.all, sty.group36)}
+                >
+                  <Ellipse7Icon
+                    className={classNames(projectcss.all, sty.svg__fTbNo)}
+                    role={"img"}
+                  />
+
+                  <p.PlasmicImg
+                    alt={""}
+                    className={classNames(sty.img__dzakQ)}
+                    displayHeight={"30.448px" as const}
+                    displayMaxHeight={"none" as const}
+                    displayMaxWidth={"100%" as const}
+                    displayMinHeight={"0" as const}
+                    displayMinWidth={"0" as const}
+                    displayWidth={"25.861px" as const}
+                    loading={"lazy" as const}
+                    src={{
+                      src: "/plasmic/blank_project/images/group5.svg",
+                      fullWidth: 25.861,
+                      fullHeight: 30.448,
+                      aspectRatio: 0.83871
+                    }}
+                  />
+                </div>
+              </div>
+
+              <div
+                data-plasmic-name={"maskGroup13"}
+                data-plasmic-override={overrides.maskGroup13}
+                className={classNames(projectcss.all, sty.maskGroup13)}
+              >
+                <div
+                  data-plasmic-name={"lauraChouetteVsAd6PfDhbcUnsplash1"}
+                  data-plasmic-override={
+                    overrides.lauraChouetteVsAd6PfDhbcUnsplash1
+                  }
+                  className={classNames(
+                    projectcss.all,
+                    sty.lauraChouetteVsAd6PfDhbcUnsplash1
+                  )}
+                />
+
+                <Polygon2Icon
+                  className={classNames(projectcss.all, sty.svg__ugTeo)}
+                  role={"img"}
+                />
+              </div>
+
+              <div
+                data-plasmic-name={"group37"}
+                data-plasmic-override={overrides.group37}
+                className={classNames(projectcss.all, sty.group37)}
+              >
+                {false ? (
+                  <Group34Icon
+                    className={classNames(projectcss.all, sty.svg__gaSk3)}
+                    role={"img"}
+                  />
+                ) : null}
+
+                <div
+                  data-plasmic-name={"group50696"}
+                  data-plasmic-override={overrides.group50696}
+                  className={classNames(projectcss.all, sty.group50696)}
+                >
+                  <div
+                    data-plasmic-name={"rectangle18"}
+                    data-plasmic-override={overrides.rectangle18}
+                    className={classNames(projectcss.all, sty.rectangle18)}
+                  />
+
+                  <div
+                    className={classNames(
+                      projectcss.all,
+                      projectcss.__wab_text,
+                      sty.text__uf4Jf
+                    )}
+                  >
+                    {"Enviando vídeo"}
+                  </div>
+
+                  <div
+                    data-plasmic-name={"group38"}
+                    data-plasmic-override={overrides.group38}
+                    className={classNames(projectcss.all, sty.group38)}
+                  >
+                    <div
+                      data-plasmic-name={"rectangle11"}
+                      data-plasmic-override={overrides.rectangle11}
+                      className={classNames(projectcss.all, sty.rectangle11)}
+                    />
+
+                    <div
+                      data-plasmic-name={"rectangle19"}
+                      data-plasmic-override={overrides.rectangle19}
+                      className={classNames(projectcss.all, sty.rectangle19)}
+                    />
+                  </div>
+
+                  <p.PlasmicImg
+                    alt={""}
+                    className={classNames(sty.img__a3Vbr)}
+                    displayHeight={"25px" as const}
+                    displayMaxHeight={"none" as const}
+                    displayMaxWidth={"100%" as const}
+                    displayMinHeight={"0" as const}
+                    displayMinWidth={"0" as const}
+                    displayWidth={"119.791px" as const}
+                    loading={"lazy" as const}
+                    src={{
+                      src: "/plasmic/blank_project/images/group36.svg",
+                      fullWidth: 119.791,
+                      fullHeight: 25,
+                      aspectRatio: 4.8
+                    }}
+                  />
+
+                  <div
+                    data-plasmic-name={"group50695"}
+                    data-plasmic-override={overrides.group50695}
+                    className={classNames(projectcss.all, sty.group50695)}
+                  >
+                    <ShareIcon
+                      className={classNames(projectcss.all, sty.svg__cYd4)}
+                      role={"img"}
+                    />
+
+                    <Vector3Icon
+                      className={classNames(projectcss.all, sty.svg__oGpQa)}
+                      role={"img"}
+                    />
+                  </div>
+
+                  <Vector2Icon
+                    className={classNames(projectcss.all, sty.svg__uqdk4)}
+                    role={"img"}
+                  />
+                </div>
+              </div>
+
+              <div
+                data-plasmic-name={"group44"}
+                data-plasmic-override={overrides.group44}
+                className={classNames(projectcss.all, sty.group44)}
+              >
+                {false ? (
+                  <div
+                    data-plasmic-name={"rectangle12"}
+                    data-plasmic-override={overrides.rectangle12}
+                    className={classNames(projectcss.all, sty.rectangle12)}
+                  />
+                ) : null}
+
+                <div
+                  data-plasmic-name={"verTodasLojasParceiras"}
+                  data-plasmic-override={overrides.verTodasLojasParceiras}
+                  className={classNames(
+                    projectcss.all,
+                    sty.verTodasLojasParceiras
+                  )}
+                >
+                  <div
+                    className={classNames(
+                      projectcss.all,
+                      projectcss.__wab_text,
+                      sty.text__iaP0
+                    )}
+                  >
+                    {"Ver todas lojas parceiras"}
+                  </div>
+                </div>
+
+                <Union4Icon
+                  className={classNames(projectcss.all, sty.svg__mOrxr)}
+                  role={"img"}
+                />
+              </div>
+
+              <div
+                data-plasmic-name={"group55"}
+                data-plasmic-override={overrides.group55}
+                className={classNames(projectcss.all, sty.group55)}
+              >
+                <div
+                  data-plasmic-name={"dicasParaGravarSeusVideos"}
+                  data-plasmic-override={overrides.dicasParaGravarSeusVideos}
+                  className={classNames(
+                    projectcss.all,
+                    sty.dicasParaGravarSeusVideos
+                  )}
+                >
+                  <div
+                    className={classNames(
+                      projectcss.all,
+                      projectcss.__wab_text,
+                      sty.text__v5C93
+                    )}
+                  >
+                    {"Dicas para gravar seus vídeos"}
+                  </div>
+                </div>
+
+                <Union4Icon
+                  className={classNames(projectcss.all, sty.svg__ssn2)}
+                  role={"img"}
+                />
+              </div>
+
+              <div
+                data-plasmic-name={"group56"}
+                data-plasmic-override={overrides.group56}
+                className={classNames(projectcss.all, sty.group56)}
+              >
+                <div
+                  data-plasmic-name={"vejaQuantoVocePodeGanhar"}
+                  data-plasmic-override={overrides.vejaQuantoVocePodeGanhar}
+                  className={classNames(
+                    projectcss.all,
+                    sty.vejaQuantoVocePodeGanhar
+                  )}
+                >
+                  <div
+                    className={classNames(
+                      projectcss.all,
+                      projectcss.__wab_text,
+                      sty.text__go2Vc
+                    )}
+                  >
+                    {"Veja quanto você pode ganhar"}
+                  </div>
+                </div>
+
+                <Union4Icon
+                  className={classNames(projectcss.all, sty.svg__xOoLu)}
+                  role={"img"}
+                />
+              </div>
+            </div>
+
+            <div
+              data-plasmic-name={"group50749"}
+              data-plasmic-override={overrides.group50749}
+              className={classNames(projectcss.all, sty.group50749)}
+            >
+              <div
+                data-plasmic-name={"group50690"}
+                data-plasmic-override={overrides.group50690}
+                className={classNames(projectcss.all, sty.group50690)}
+              >
+                <div
+                  className={classNames(
+                    projectcss.all,
+                    projectcss.__wab_text,
+                    sty.text__ge6N
+                  )}
+                >
+                  {"Veja como você pode ganhar"}
+                </div>
+
+                <Union4Icon
+                  className={classNames(projectcss.all, sty.svg__n3Q3K)}
+                  role={"img"}
+                />
+
+                <div
+                  data-plasmic-name={"btnComecar"}
+                  data-plasmic-override={overrides.btnComecar}
+                  className={classNames(projectcss.all, sty.btnComecar)}
+                >
+                  <div
+                    data-plasmic-name={"rectangle13"}
+                    data-plasmic-override={overrides.rectangle13}
+                    className={classNames(projectcss.all, sty.rectangle13)}
+                  />
+
+                  <div
+                    className={classNames(
+                      projectcss.all,
+                      projectcss.__wab_text,
+                      sty.text__cjmMv
+                    )}
+                  >
+                    {"Como funciona?"}
+                  </div>
+                </div>
+              </div>
+
+              <div
+                className={classNames(
+                  projectcss.all,
+                  projectcss.__wab_text,
+                  sty.text__e9XRj
+                )}
+              >
+                {
+                  "Quanto maior o número de curtidas, comentários, visualizações e compartilhamentos mais cashback você ganha"
+                }
+              </div>
+
+              <div
+                data-plasmic-name={"group42"}
+                data-plasmic-override={overrides.group42}
+                className={classNames(projectcss.all, sty.group42)}
+              >
+                <div
+                  data-plasmic-name={"rectangle14"}
+                  data-plasmic-override={overrides.rectangle14}
+                  className={classNames(projectcss.all, sty.rectangle14)}
+                />
+
+                <div
+                  className={classNames(
+                    projectcss.all,
+                    projectcss.__wab_text,
+                    sty.text__u0JYo
+                  )}
+                >
+                  {"Compartilhe o vídeo em suas redes e  ganhe  ainda mais"}
+                </div>
+              </div>
+            </div>
+
+            <div
+              data-plasmic-name={"rectangle6214"}
+              data-plasmic-override={overrides.rectangle6214}
+              className={classNames(projectcss.all, sty.rectangle6214)}
+            />
+
+            <div
+              data-plasmic-name={"group47"}
+              data-plasmic-override={overrides.group47}
+              className={classNames(projectcss.all, sty.group47)}
+            >
+              <div
+                data-plasmic-name={"rectangle15"}
+                data-plasmic-override={overrides.rectangle15}
+                className={classNames(projectcss.all, sty.rectangle15)}
+              />
+
+              <div
+                className={classNames(
+                  projectcss.all,
+                  projectcss.__wab_text,
+                  sty.text__mhuby
+                )}
+              >
+                {"Nossas  creattors"}
+              </div>
+
+              <div
+                className={classNames(
+                  projectcss.all,
+                  projectcss.__wab_text,
+                  sty.text__t1LPl
+                )}
+              >
+                {
+                  "Somos influenciadores, personalidades e investidores criando conteúdo para marcas e recompensando nossa comunidade de criadores com vantagens e cashbacks."
+                }
+              </div>
+
+              <div
+                className={classNames(
+                  projectcss.all,
+                  projectcss.__wab_text,
+                  sty.text___1QuT9
+                )}
+              >
+                {"Sabrina Sato"}
+              </div>
+
+              <div
+                className={classNames(
+                  projectcss.all,
+                  projectcss.__wab_text,
+                  sty.text__eKqjw
+                )}
+              >
+                {"Sabrina Sato"}
+              </div>
+
+              <div
+                className={classNames(
+                  projectcss.all,
+                  projectcss.__wab_text,
+                  sty.text__qYgDe
+                )}
+              >
+                {"Sabrina Sato"}
+              </div>
+
+              <div
+                className={classNames(
+                  projectcss.all,
+                  projectcss.__wab_text,
+                  sty.text__tflO0
+                )}
+              >
+                {"Boca Rosa"}
+              </div>
+
+              <div
+                className={classNames(
+                  projectcss.all,
+                  projectcss.__wab_text,
+                  sty.text__bKc8A
+                )}
+              >
+                {"Boca Rosa"}
+              </div>
+
+              <div
+                data-plasmic-name={"maskGroup14"}
+                data-plasmic-override={overrides.maskGroup14}
+                className={classNames(projectcss.all, sty.maskGroup14)}
+              >
+                <div
+                  data-plasmic-name={"image64"}
+                  data-plasmic-override={overrides.image64}
+                  className={classNames(projectcss.all, sty.image64)}
+                />
+              </div>
+
+              <div
+                data-plasmic-name={"maskGroup15"}
+                data-plasmic-override={overrides.maskGroup15}
+                className={classNames(projectcss.all, sty.maskGroup15)}
+              >
+                <div
+                  data-plasmic-name={"image65"}
+                  data-plasmic-override={overrides.image65}
+                  className={classNames(projectcss.all, sty.image65)}
+                />
+              </div>
+
+              <div
+                data-plasmic-name={"maskGroup16"}
+                data-plasmic-override={overrides.maskGroup16}
+                className={classNames(projectcss.all, sty.maskGroup16)}
+              >
+                <div
+                  data-plasmic-name={"image66"}
+                  data-plasmic-override={overrides.image66}
+                  className={classNames(projectcss.all, sty.image66)}
+                />
+              </div>
+
+              <div
+                data-plasmic-name={"maskGroup17"}
+                data-plasmic-override={overrides.maskGroup17}
+                className={classNames(projectcss.all, sty.maskGroup17)}
+              >
+                <div
+                  data-plasmic-name={"image60"}
+                  data-plasmic-override={overrides.image60}
+                  className={classNames(projectcss.all, sty.image60)}
+                />
+              </div>
+
+              <div
+                data-plasmic-name={"maskGroup18"}
+                data-plasmic-override={overrides.maskGroup18}
+                className={classNames(projectcss.all, sty.maskGroup18)}
+              >
+                <div
+                  data-plasmic-name={"image61"}
+                  data-plasmic-override={overrides.image61}
+                  className={classNames(projectcss.all, sty.image61)}
+                />
+              </div>
+            </div>
+
+            <div
+              data-plasmic-name={"group50700"}
+              data-plasmic-override={overrides.group50700}
+              className={classNames(projectcss.all, sty.group50700)}
+            >
+              <div
+                className={classNames(
+                  projectcss.all,
+                  projectcss.__wab_text,
+                  sty.text__h8SE
+                )}
+              >
+                {"Comunidade creattor"}
+              </div>
+
+              <div
+                data-plasmic-name={"group58"}
+                data-plasmic-override={overrides.group58}
+                className={classNames(projectcss.all, sty.group58)}
+              >
+                <div
+                  className={classNames(
+                    projectcss.all,
+                    projectcss.__wab_text,
+                    sty.text__nF84K
+                  )}
+                >
+                  {
+                    "\"I am loving Kale! Kale's approach is authentic because I'm posting about brands that I am already buying from.\"\n\n@flo_riderr | 1.9k"
+                  }
+                </div>
+
+                <div
+                  data-plasmic-name={"rectangle16"}
+                  data-plasmic-override={overrides.rectangle16}
+                  className={classNames(projectcss.all, sty.rectangle16)}
+                />
+
+                <div
+                  data-plasmic-name={"maskGroup19"}
+                  data-plasmic-override={overrides.maskGroup19}
+                  className={classNames(projectcss.all, sty.maskGroup19)}
+                >
+                  <div
+                    data-plasmic-name={"image67"}
+                    data-plasmic-override={overrides.image67}
+                    className={classNames(projectcss.all, sty.image67)}
+                  />
+
+                  <div
+                    data-plasmic-name={"image68"}
+                    data-plasmic-override={overrides.image68}
+                    className={classNames(projectcss.all, sty.image68)}
+                  />
+                </div>
+              </div>
+
+              <div
+                data-plasmic-name={"group50685"}
+                data-plasmic-override={overrides.group50685}
+                className={classNames(projectcss.all, sty.group50685)}
+              >
+                <div
+                  className={classNames(
+                    projectcss.all,
+                    projectcss.__wab_text,
+                    sty.text__j6GCb
+                  )}
+                >
+                  {
+                    "\"I am loving Kale! Kale's approach is authentic because I'm posting about brands that I am already buying from.\"\n\n@flo_riderr | 1.9k"
+                  }
+                </div>
+
+                <div
+                  data-plasmic-name={"rectangle26"}
+                  data-plasmic-override={overrides.rectangle26}
+                  className={classNames(projectcss.all, sty.rectangle26)}
+                />
+
+                <div
+                  data-plasmic-name={"maskGroup20"}
+                  data-plasmic-override={overrides.maskGroup20}
+                  className={classNames(projectcss.all, sty.maskGroup20)}
+                >
+                  <div
+                    data-plasmic-name={"image70"}
+                    data-plasmic-override={overrides.image70}
+                    className={classNames(projectcss.all, sty.image70)}
+                  />
+
+                  <div
+                    data-plasmic-name={"image71"}
+                    data-plasmic-override={overrides.image71}
+                    className={classNames(projectcss.all, sty.image71)}
+                  />
+                </div>
+              </div>
+
+              <div
+                data-plasmic-name={"group50689"}
+                data-plasmic-override={overrides.group50689}
+                className={classNames(projectcss.all, sty.group50689)}
+              >
+                <div
+                  className={classNames(
+                    projectcss.all,
+                    projectcss.__wab_text,
+                    sty.text__f7LN
+                  )}
+                >
+                  {
+                    "\"I am loving Kale! Kale's approach is authentic because I'm posting about brands that I am already buying from.\"\n\n@flo_riderr | 1.9k"
+                  }
+                </div>
+
+                <div
+                  data-plasmic-name={"rectangle27"}
+                  data-plasmic-override={overrides.rectangle27}
+                  className={classNames(projectcss.all, sty.rectangle27)}
+                />
+
+                <div
+                  data-plasmic-name={"maskGroup21"}
+                  data-plasmic-override={overrides.maskGroup21}
+                  className={classNames(projectcss.all, sty.maskGroup21)}
+                >
+                  <div
+                    data-plasmic-name={"image72"}
+                    data-plasmic-override={overrides.image72}
+                    className={classNames(projectcss.all, sty.image72)}
+                  />
+
+                  <div
+                    data-plasmic-name={"image76"}
+                    data-plasmic-override={overrides.image76}
+                    className={classNames(projectcss.all, sty.image76)}
+                  />
+                </div>
+              </div>
+
+              <div
+                data-plasmic-name={"group59"}
+                data-plasmic-override={overrides.group59}
+                className={classNames(projectcss.all, sty.group59)}
+              >
+                <div
+                  className={classNames(
+                    projectcss.all,
+                    projectcss.__wab_text,
+                    sty.text__uqAo
+                  )}
+                >
+                  {
+                    "\"I am loving Kale! Kale's approach is authentic because I'm posting about brands that I am already buying from.\"\n\n@flo_riderr | 1.9k"
+                  }
+                </div>
+
+                <div
+                  data-plasmic-name={"rectangle28"}
+                  data-plasmic-override={overrides.rectangle28}
+                  className={classNames(projectcss.all, sty.rectangle28)}
+                />
+
+                <div
+                  data-plasmic-name={"maskGroup22"}
+                  data-plasmic-override={overrides.maskGroup22}
+                  className={classNames(projectcss.all, sty.maskGroup22)}
+                >
+                  <div
+                    data-plasmic-name={"image77"}
+                    data-plasmic-override={overrides.image77}
+                    className={classNames(projectcss.all, sty.image77)}
+                  />
+                </div>
+              </div>
+
+              <div
+                data-plasmic-name={"group50686"}
+                data-plasmic-override={overrides.group50686}
+                className={classNames(projectcss.all, sty.group50686)}
+              >
+                <div
+                  className={classNames(
+                    projectcss.all,
+                    projectcss.__wab_text,
+                    sty.text__eMlBa
+                  )}
+                >
+                  {
+                    "\"I am loving Kale! Kale's approach is authentic because I'm posting about brands that I am already buying from.\"\n\n@flo_riderr | 1.9k"
+                  }
+                </div>
+
+                <div
+                  data-plasmic-name={"rectangle29"}
+                  data-plasmic-override={overrides.rectangle29}
+                  className={classNames(projectcss.all, sty.rectangle29)}
+                />
+
+                <div
+                  data-plasmic-name={"maskGroup23"}
+                  data-plasmic-override={overrides.maskGroup23}
+                  className={classNames(projectcss.all, sty.maskGroup23)}
+                >
+                  <div
+                    data-plasmic-name={"image78"}
+                    data-plasmic-override={overrides.image78}
+                    className={classNames(projectcss.all, sty.image78)}
+                  />
+                </div>
+              </div>
+            </div>
+
+            <div
+              data-plasmic-name={"group50699"}
+              data-plasmic-override={overrides.group50699}
+              className={classNames(projectcss.all, sty.group50699)}
+            >
+              <div
+                data-plasmic-name={"rectangle6212"}
+                data-plasmic-override={overrides.rectangle6212}
+                className={classNames(projectcss.all, sty.rectangle6212)}
+              />
+
+              <div
+                data-plasmic-name={"rodape"}
+                data-plasmic-override={overrides.rodape}
+                className={classNames(projectcss.all, sty.rodape)}
+              >
+                <div
+                  className={classNames(
+                    projectcss.all,
+                    projectcss.__wab_text,
+                    sty.text__gMLlo
+                  )}
+                >
+                  {"© 2022 Creattor.io. All rights reserved."}
+                </div>
+
+                <div
+                  data-plasmic-name={"group50698"}
+                  data-plasmic-override={overrides.group50698}
+                  className={classNames(projectcss.all, sty.group50698)}
+                >
+                  <div
+                    className={classNames(
+                      projectcss.all,
+                      projectcss.__wab_text,
+                      sty.text__oUflH
+                    )}
+                  >
+                    {"Na mídia"}
+                  </div>
+
+                  <div
+                    className={classNames(
+                      projectcss.all,
+                      projectcss.__wab_text,
+                      sty.text__dKkr0
+                    )}
+                  >
+                    {"Veja o que estão falando da gente"}
+                  </div>
+
+                  <Path688Icon
+                    className={classNames(projectcss.all, sty.svg__ydYn0)}
+                    role={"img"}
+                  />
+
+                  <div
+                    data-plasmic-name={"image79"}
+                    data-plasmic-override={overrides.image79}
+                    className={classNames(projectcss.all, sty.image79)}
+                  />
+
+                  <div
+                    data-plasmic-name={"image80"}
+                    data-plasmic-override={overrides.image80}
+                    className={classNames(projectcss.all, sty.image80)}
+                  />
+
+                  <div
+                    data-plasmic-name={"image81"}
+                    data-plasmic-override={overrides.image81}
+                    className={classNames(projectcss.all, sty.image81)}
+                  />
+                </div>
+
+                <Line1Icon
+                  className={classNames(projectcss.all, sty.svg___9LgYm)}
+                  role={"img"}
+                />
+
+                <div
+                  data-plasmic-name={"group50645"}
+                  data-plasmic-override={overrides.group50645}
+                  className={classNames(projectcss.all, sty.group50645)}
+                >
+                  <div
+                    data-plasmic-name={"group50644"}
+                    data-plasmic-override={overrides.group50644}
+                    className={classNames(projectcss.all, sty.group50644)}
+                  >
+                    <div
+                      data-plasmic-name={"group50641"}
+                      data-plasmic-override={overrides.group50641}
+                      className={classNames(projectcss.all, sty.group50641)}
+                    >
+                      <div
+                        data-plasmic-name={"rectangle6196"}
+                        data-plasmic-override={overrides.rectangle6196}
+                        className={classNames(
+                          projectcss.all,
+                          sty.rectangle6196
+                        )}
+                      />
+
+                      <InstagramIcon
+                        className={classNames(projectcss.all, sty.svg__pjvtf)}
+                        role={"img"}
+                      />
+                    </div>
+
+                    <div
+                      data-plasmic-name={"group50642"}
+                      data-plasmic-override={overrides.group50642}
+                      className={classNames(projectcss.all, sty.group50642)}
+                    >
+                      <div
+                        data-plasmic-name={"instagram"}
+                        data-plasmic-override={overrides.instagram}
+                        className={classNames(projectcss.all, sty.instagram)}
+                      >
+                        {false ? (
+                          <VectorIcon
+                            className={classNames(
+                              projectcss.all,
+                              sty.svg__sfLbz
+                            )}
+                            role={"img"}
+                          />
+                        ) : null}
+                      </div>
+
+                      <div
+                        data-plasmic-name={"rectangle6197"}
+                        data-plasmic-override={overrides.rectangle6197}
+                        className={classNames(
+                          projectcss.all,
+                          sty.rectangle6197
+                        )}
+                      />
+
+                      <FacebookIcon
+                        className={classNames(projectcss.all, sty.svg___36QyU)}
+                        role={"img"}
+                      />
+                    </div>
+
+                    <div
+                      data-plasmic-name={"group50643"}
+                      data-plasmic-override={overrides.group50643}
+                      className={classNames(projectcss.all, sty.group50643)}
+                    >
+                      <div
+                        data-plasmic-name={"rectangle6198"}
+                        data-plasmic-override={overrides.rectangle6198}
+                        className={classNames(
+                          projectcss.all,
+                          sty.rectangle6198
+                        )}
+                      />
+
+                      <PintrestIcon
+                        className={classNames(projectcss.all, sty.svg__zhNk7)}
+                        role={"img"}
+                      />
+                    </div>
+                  </div>
+                </div>
+
+                <div
+                  data-plasmic-name={"group50646"}
+                  data-plasmic-override={overrides.group50646}
+                  className={classNames(projectcss.all, sty.group50646)}
+                >
+                  <p.PlasmicImg
+                    alt={""}
+                    className={classNames(sty.img___3FyFy)}
+                    displayHeight={"40.07px" as const}
+                    displayMaxHeight={"none" as const}
+                    displayMaxWidth={"100%" as const}
+                    displayMinHeight={"0" as const}
+                    displayMinWidth={"0" as const}
+                    displayWidth={"38.468px" as const}
+                    loading={"lazy" as const}
+                    src={{
+                      src: "/plasmic/blank_project/images/group18.svg",
+                      fullWidth: 38.468,
+                      fullHeight: 40.07,
+                      aspectRatio: 0.95122
+                    }}
+                  />
+
+                  <CreattR2Icon
+                    className={classNames(projectcss.all, sty.svg__vabdD)}
+                    role={"img"}
+                  />
+                </div>
+              </div>
+            </div>
+
+            <div
+              data-plasmic-name={"group60"}
+              data-plasmic-override={overrides.group60}
+              className={classNames(projectcss.all, sty.group60)}
+            >
+              <div
+                data-plasmic-name={"rectangle30"}
+                data-plasmic-override={overrides.rectangle30}
+                className={classNames(projectcss.all, sty.rectangle30)}
+              />
+
+              <div
+                className={classNames(
+                  projectcss.all,
+                  projectcss.__wab_text,
+                  sty.text___0N3Nx
+                )}
+              >
+                {"Você já cria  conteúdo profissionalmente?"}
+              </div>
+            </div>
+
+            <div
+              className={classNames(
+                projectcss.all,
+                projectcss.__wab_text,
+                sty.text__lL94J
+              )}
+            >
+              {
+                "Crie sua conta e faça parte da nossa comunidade de criadores, gerando renda e engajamento para nossas marcas parceiras"
+              }
+            </div>
+
+            <div
+              data-plasmic-name={"group50648"}
+              data-plasmic-override={overrides.group50648}
+              className={classNames(projectcss.all, sty.group50648)}
+            >
+              <div
+                data-plasmic-name={"rectangle31"}
+                data-plasmic-override={overrides.rectangle31}
+                className={classNames(projectcss.all, sty.rectangle31)}
+              />
+
+              <div
+                data-plasmic-name={"maskGroup24"}
+                data-plasmic-override={overrides.maskGroup24}
+                className={classNames(projectcss.all, sty.maskGroup24)}
+              >
+                <div
+                  data-plasmic-name={"image82"}
+                  data-plasmic-override={overrides.image82}
+                  className={classNames(projectcss.all, sty.image82)}
+                />
+
+                <div
+                  data-plasmic-name={"image83"}
+                  data-plasmic-override={overrides.image83}
+                  className={classNames(projectcss.all, sty.image83)}
+                />
+
+                <Polygon3Icon
+                  className={classNames(projectcss.all, sty.svg__n6Kfr)}
+                  role={"img"}
+                />
+              </div>
+
+              <div
+                className={classNames(
+                  projectcss.all,
+                  projectcss.__wab_text,
+                  sty.text__eRcYx
+                )}
+              >
+                {
+                  "@alexia.kronig e o truque da sacolinha. já prepara aquela alça de bolsa que tá esquecida ...\n#farmrio"
+                }
+              </div>
+
+              <div
+                data-plasmic-name={"group50658"}
+                data-plasmic-override={overrides.group50658}
+                className={classNames(projectcss.all, sty.group50658)}
+              >
+                <div
+                  data-plasmic-name={"rectangle6202"}
+                  data-plasmic-override={overrides.rectangle6202}
+                  className={classNames(projectcss.all, sty.rectangle6202)}
+                />
+
+                <div
+                  data-plasmic-name={"rectangle6203"}
+                  data-plasmic-override={overrides.rectangle6203}
+                  className={classNames(projectcss.all, sty.rectangle6203)}
+                />
+              </div>
+            </div>
+
+            <div
+              data-plasmic-name={"group50691"}
+              data-plasmic-override={overrides.group50691}
+              className={classNames(projectcss.all, sty.group50691)}
+            >
+              <div
+                data-plasmic-name={"rectangle32"}
+                data-plasmic-override={overrides.rectangle32}
+                className={classNames(projectcss.all, sty.rectangle32)}
+              />
+
+              <div
+                data-plasmic-name={"maskGroup25"}
+                data-plasmic-override={overrides.maskGroup25}
+                className={classNames(projectcss.all, sty.maskGroup25)}
+              >
+                <div
+                  data-plasmic-name={"image84"}
+                  data-plasmic-override={overrides.image84}
+                  className={classNames(projectcss.all, sty.image84)}
+                />
+
+                <div
+                  data-plasmic-name={"image85"}
+                  data-plasmic-override={overrides.image85}
+                  className={classNames(projectcss.all, sty.image85)}
+                />
+
+                <Polygon3Icon
+                  className={classNames(projectcss.all, sty.svg__brbis)}
+                  role={"img"}
+                />
+              </div>
+
+              <div
+                className={classNames(
+                  projectcss.all,
+                  projectcss.__wab_text,
+                  sty.text__uO2WQ
+                )}
+              >
+                {
+                  "@alexia.kronig e o truque da sacolinha. já prepara aquela alça de bolsa que tá esquecida ...\n#farmrio"
+                }
+              </div>
+            </div>
+
+            <div
+              data-plasmic-name={"group50649"}
+              data-plasmic-override={overrides.group50649}
+              className={classNames(projectcss.all, sty.group50649)}
+            >
+              <div
+                data-plasmic-name={"rectangle33"}
+                data-plasmic-override={overrides.rectangle33}
+                className={classNames(projectcss.all, sty.rectangle33)}
+              />
+
+              <div
+                data-plasmic-name={"maskGroup26"}
+                data-plasmic-override={overrides.maskGroup26}
+                className={classNames(projectcss.all, sty.maskGroup26)}
+              >
+                <div
+                  data-plasmic-name={"image86"}
+                  data-plasmic-override={overrides.image86}
+                  className={classNames(projectcss.all, sty.image86)}
+                />
+
+                <div
+                  data-plasmic-name={"image87"}
+                  data-plasmic-override={overrides.image87}
+                  className={classNames(projectcss.all, sty.image87)}
+                />
+
+                <div
+                  data-plasmic-name={"image88"}
+                  data-plasmic-override={overrides.image88}
+                  className={classNames(projectcss.all, sty.image88)}
+                />
+
+                <Polygon3Icon
+                  className={classNames(projectcss.all, sty.svg___8YOc)}
+                  role={"img"}
+                />
+              </div>
+
+              <div
+                className={classNames(
+                  projectcss.all,
+                  projectcss.__wab_text,
+                  sty.text__tC5Rj
+                )}
+              >
+                {
+                  "@casadepaete e Últimos looks: qual o seu favorito? 1, 2, 3, 4, 5, 6 ou 7?! \n#invernobrilhante"
+                }
+              </div>
+            </div>
+
+            <div
+              data-plasmic-name={"group50659"}
+              data-plasmic-override={overrides.group50659}
+              className={classNames(projectcss.all, sty.group50659)}
+            >
+              <div
+                data-plasmic-name={"rectangle6208"}
+                data-plasmic-override={overrides.rectangle6208}
+                className={classNames(projectcss.all, sty.rectangle6208)}
+              />
+
+              <div
+                data-plasmic-name={"rectangle6209"}
+                data-plasmic-override={overrides.rectangle6209}
+                className={classNames(projectcss.all, sty.rectangle6209)}
+              />
+            </div>
+
+            <div
+              data-plasmic-name={"group50701"}
+              data-plasmic-override={overrides.group50701}
+              className={classNames(projectcss.all, sty.group50701)}
+            >
+              <div
+                data-plasmic-name={"group46"}
+                data-plasmic-override={overrides.group46}
+                className={classNames(projectcss.all, sty.group46)}
+              >
+                <div
+                  data-plasmic-name={"rectangle34"}
+                  data-plasmic-override={overrides.rectangle34}
+                  className={classNames(projectcss.all, sty.rectangle34)}
+                />
+
+                <div
+                  className={classNames(
+                    projectcss.all,
+                    projectcss.__wab_text,
+                    sty.text__vVVbN
+                  )}
+                >
+                  {
+                    "@Bianca\nAdorei essa saia, veste super bem. Super aprovada gente!\n#recomendo #creator"
+                  }
+                </div>
+
+                <div
+                  className={classNames(
+                    projectcss.all,
+                    projectcss.__wab_text,
+                    sty.text__ndNh1
+                  )}
+                >
+                  {
+                    "@Bianca\nAdorei essa saia, veste super bem. Super aprovada gente!\n#recomendo #creator"
+                  }
+                </div>
+
+                <div
+                  data-plasmic-name={"maskGroup27"}
+                  data-plasmic-override={overrides.maskGroup27}
+                  className={classNames(projectcss.all, sty.maskGroup27)}
+                >
+                  <div
+                    data-plasmic-name={"pexelsMiriamAlonso75856302"}
+                    data-plasmic-override={overrides.pexelsMiriamAlonso75856302}
+                    className={classNames(
+                      projectcss.all,
+                      sty.pexelsMiriamAlonso75856302
+                    )}
+                  />
+                </div>
+
+                <div
+                  data-plasmic-name={"group57"}
+                  data-plasmic-override={overrides.group57}
+                  className={classNames(projectcss.all, sty.group57)}
+                >
+                  <Ellipse17Icon
+                    className={classNames(projectcss.all, sty.svg__ylHIy)}
+                    role={"img"}
+                  />
+
+                  <ShareIconIcon
+                    className={classNames(projectcss.all, sty.svg__yEe23)}
+                    role={"img"}
+                  />
+                </div>
+
+                <div
+                  data-plasmic-name={"group51"}
+                  data-plasmic-override={overrides.group51}
+                  className={classNames(projectcss.all, sty.group51)}
+                >
+                  <Ellipse18Icon
+                    className={classNames(projectcss.all, sty.svg__qba)}
+                    role={"img"}
+                  />
+
+                  <p.PlasmicImg
+                    alt={""}
+                    className={classNames(sty.img___5AMhk)}
+                    displayHeight={"23.258px" as const}
+                    displayMaxHeight={"none" as const}
+                    displayMaxWidth={"100%" as const}
+                    displayMinHeight={"0" as const}
+                    displayMinWidth={"0" as const}
+                    displayWidth={"24.5px" as const}
+                    loading={"lazy" as const}
+                    src={{
+                      src: "/plasmic/blank_project/images/messageIcon.svg",
+                      fullWidth: 24.5,
+                      fullHeight: 23.258,
+                      aspectRatio: 1.041667
+                    }}
+                  />
+                </div>
+
+                <div
+                  data-plasmic-name={"group61"}
+                  data-plasmic-override={overrides.group61}
+                  className={classNames(projectcss.all, sty.group61)}
+                >
+                  <Ellipse19Icon
+                    className={classNames(projectcss.all, sty.svg__ok55Z)}
+                    role={"img"}
+                  />
+
+                  <ShareIcon2Icon
+                    className={classNames(projectcss.all, sty.svg__jCunm)}
+                    role={"img"}
+                  />
+                </div>
+              </div>
+
+              <div
+                data-plasmic-name={"group50683"}
+                data-plasmic-override={overrides.group50683}
+                className={classNames(projectcss.all, sty.group50683)}
+              >
+                <p.PlasmicImg
+                  alt={""}
+                  className={classNames(sty.img__ehOk)}
+                  displayHeight={"31.749px" as const}
+                  displayMaxHeight={"none" as const}
+                  displayMaxWidth={"100%" as const}
+                  displayMinHeight={"0" as const}
+                  displayMinWidth={"0" as const}
+                  displayWidth={"31.749px" as const}
+                  loading={"lazy" as const}
+                  src={{
+                    src: "/plasmic/blank_project/images/group52.svg",
+                    fullWidth: 31.749,
+                    fullHeight: 31.749,
+                    aspectRatio: 1
+                  }}
+                />
+
+                <p.PlasmicImg
+                  alt={""}
+                  className={classNames(sty.img__eUglp)}
+                  displayHeight={"45px" as const}
+                  displayMaxHeight={"none" as const}
+                  displayMaxWidth={"100%" as const}
+                  displayMinHeight={"0" as const}
+                  displayMinWidth={"0" as const}
+                  displayWidth={"45px" as const}
+                  loading={"lazy" as const}
+                  src={{
+                    src: "/plasmic/blank_project/images/group47.svg",
+                    fullWidth: 45,
+                    fullHeight: 45,
+                    aspectRatio: 1
+                  }}
+                />
+
+                <div
+                  data-plasmic-name={"group62"}
+                  data-plasmic-override={overrides.group62}
+                  className={classNames(projectcss.all, sty.group62)}
+                >
+                  <Ellipse20Icon
+                    className={classNames(projectcss.all, sty.svg__yVg3L)}
+                    role={"img"}
+                  />
+
+                  <ShareIcon3Icon
+                    className={classNames(projectcss.all, sty.svg__iiWD)}
+                    role={"img"}
+                  />
+                </div>
+
+                <div
+                  data-plasmic-name={"group40"}
+                  data-plasmic-override={overrides.group40}
+                  className={classNames(projectcss.all, sty.group40)}
+                >
+                  <div
+                    data-plasmic-name={"rectangle35"}
+                    data-plasmic-override={overrides.rectangle35}
+                    className={classNames(projectcss.all, sty.rectangle35)}
+                  />
+
+                  <div
+                    className={classNames(
+                      projectcss.all,
+                      projectcss.__wab_text,
+                      sty.text__y46Po
+                    )}
+                  >
+                    {"Gabi\n+ 15 compartilharam"}
+                  </div>
+
+                  <div
+                    data-plasmic-name={"maskGroup28"}
+                    data-plasmic-override={overrides.maskGroup28}
+                    className={classNames(projectcss.all, sty.maskGroup28)}
+                  >
+                    <div
+                      data-plasmic-name={"image89"}
+                      data-plasmic-override={overrides.image89}
+                      className={classNames(projectcss.all, sty.image89)}
+                    />
+
+                    <div
+                      data-plasmic-name={"image90"}
+                      data-plasmic-override={overrides.image90}
+                      className={classNames(projectcss.all, sty.image90)}
+                    />
+                  </div>
+                </div>
+
+                <div
+                  data-plasmic-name={"group63"}
+                  data-plasmic-override={overrides.group63}
+                  className={classNames(projectcss.all, sty.group63)}
+                >
+                  <div
+                    data-plasmic-name={"rectangle36"}
+                    data-plasmic-override={overrides.rectangle36}
+                    className={classNames(projectcss.all, sty.rectangle36)}
+                  />
+
+                  <div
+                    className={classNames(
+                      projectcss.all,
+                      projectcss.__wab_text,
+                      sty.text__kDEfz
+                    )}
+                  >
+                    {"Patrícia\n+ 100 gostaram"}
+                  </div>
+
+                  <div
+                    data-plasmic-name={"maskGroup29"}
+                    data-plasmic-override={overrides.maskGroup29}
+                    className={classNames(projectcss.all, sty.maskGroup29)}
+                  >
+                    <div
+                      data-plasmic-name={"image91"}
+                      data-plasmic-override={overrides.image91}
+                      className={classNames(projectcss.all, sty.image91)}
+                    />
+                  </div>
+                </div>
+
+                <p.PlasmicImg
+                  alt={""}
+                  className={classNames(sty.img___3FzTz)}
+                  displayHeight={"45px" as const}
+                  displayMaxHeight={"none" as const}
+                  displayMaxWidth={"100%" as const}
+                  displayMinHeight={"0" as const}
+                  displayMinWidth={"0" as const}
+                  displayWidth={"45px" as const}
+                  loading={"lazy" as const}
+                  src={{
+                    src: "/plasmic/blank_project/images/group47.svg",
+                    fullWidth: 45,
+                    fullHeight: 45,
+                    aspectRatio: 1
+                  }}
+                />
+
+                <div
+                  data-plasmic-name={"group50651"}
+                  data-plasmic-override={overrides.group50651}
+                  className={classNames(projectcss.all, sty.group50651)}
+                >
+                  <Ellipse21Icon
+                    className={classNames(projectcss.all, sty.svg__l3K4U)}
+                    role={"img"}
+                  />
+
+                  <div
+                    data-plasmic-name={"image92"}
+                    data-plasmic-override={overrides.image92}
+                    className={classNames(projectcss.all, sty.image92)}
+                  />
+                </div>
+
+                <p.PlasmicImg
+                  alt={""}
+                  className={classNames(sty.img__rtpC)}
+                  displayHeight={"62px" as const}
+                  displayMaxHeight={"none" as const}
+                  displayMaxWidth={"100%" as const}
+                  displayMinHeight={"0" as const}
+                  displayMinWidth={"0" as const}
+                  displayWidth={"62px" as const}
+                  loading={"lazy" as const}
+                  src={{
+                    src: "/plasmic/blank_project/images/group50651.svg",
+                    fullWidth: 62,
+                    fullHeight: 62,
+                    aspectRatio: 1
+                  }}
+                />
+              </div>
+
+              <div
+                data-plasmic-name={"group50692"}
+                data-plasmic-override={overrides.group50692}
+                className={classNames(projectcss.all, sty.group50692)}
+              >
+                <div
+                  data-plasmic-name={"group64"}
+                  data-plasmic-override={overrides.group64}
+                  className={classNames(projectcss.all, sty.group64)}
+                >
+                  <Ellipse22Icon
+                    className={classNames(projectcss.all, sty.svg__ylxlN)}
+                    role={"img"}
+                  />
+
+                  <p.PlasmicImg
+                    alt={""}
+                    className={classNames(sty.img___6Zm0W)}
+                    displayHeight={"39.317px" as const}
+                    displayMaxHeight={"none" as const}
+                    displayMaxWidth={"100%" as const}
+                    displayMinHeight={"0" as const}
+                    displayMinWidth={"0" as const}
+                    displayWidth={"41.416px" as const}
+                    loading={"lazy" as const}
+                    src={{
+                      src: "/plasmic/blank_project/images/messageIcon2.svg",
+                      fullWidth: 41.416,
+                      fullHeight: 39.317,
+                      aspectRatio: 1.05
+                    }}
+                  />
+                </div>
+
+                <div
+                  data-plasmic-name={"group65"}
+                  data-plasmic-override={overrides.group65}
+                  className={classNames(projectcss.all, sty.group65)}
+                >
+                  <Ellipse23Icon
+                    className={classNames(projectcss.all, sty.svg__bR8ZE)}
+                    role={"img"}
+                  />
+
+                  <p.PlasmicImg
+                    alt={""}
+                    className={classNames(sty.img__on2Wt)}
+                    displayHeight={"18.222px" as const}
+                    displayMaxHeight={"none" as const}
+                    displayMaxWidth={"100%" as const}
+                    displayMinHeight={"0" as const}
+                    displayMinWidth={"0" as const}
+                    displayWidth={"19.195px" as const}
+                    loading={"lazy" as const}
+                    src={{
+                      src: "/plasmic/blank_project/images/messageIcon3.svg",
+                      fullWidth: 19.195,
+                      fullHeight: 18.222,
+                      aspectRatio: 1.052632
+                    }}
+                  />
+                </div>
+
+                <div
+                  data-plasmic-name={"group66"}
+                  data-plasmic-override={overrides.group66}
+                  className={classNames(projectcss.all, sty.group66)}
+                >
+                  <Ellipse18Icon
+                    className={classNames(projectcss.all, sty.svg___9Lve)}
+                    role={"img"}
+                  />
+
+                  <p.PlasmicImg
+                    alt={""}
+                    className={classNames(sty.img___9QtXb)}
+                    displayHeight={"23.258px" as const}
+                    displayMaxHeight={"none" as const}
+                    displayMaxWidth={"100%" as const}
+                    displayMinHeight={"0" as const}
+                    displayMinWidth={"0" as const}
+                    displayWidth={"24.5px" as const}
+                    loading={"lazy" as const}
+                    src={{
+                      src: "/plasmic/blank_project/images/messageIcon.svg",
+                      fullWidth: 24.5,
+                      fullHeight: 23.258,
+                      aspectRatio: 1.041667
+                    }}
+                  />
+                </div>
+
+                <div
+                  data-plasmic-name={"group67"}
+                  data-plasmic-override={overrides.group67}
+                  className={classNames(projectcss.all, sty.group67)}
+                >
+                  <div
+                    data-plasmic-name={"rectangle37"}
+                    data-plasmic-override={overrides.rectangle37}
+                    className={classNames(projectcss.all, sty.rectangle37)}
+                  />
+
+                  <div
+                    className={classNames(
+                      projectcss.all,
+                      projectcss.__wab_text,
+                      sty.text__t4KCx
+                    )}
+                  >
+                    {"Bruna\n+ 32 comentaram"}
+                  </div>
+
+                  <div
+                    data-plasmic-name={"maskGroup30"}
+                    data-plasmic-override={overrides.maskGroup30}
+                    className={classNames(projectcss.all, sty.maskGroup30)}
+                  >
+                    <div
+                      data-plasmic-name={"image93"}
+                      data-plasmic-override={overrides.image93}
+                      className={classNames(projectcss.all, sty.image93)}
+                    />
+                  </div>
+                </div>
+
+                <p.PlasmicImg
+                  alt={""}
+                  className={classNames(sty.img__h8Pdg)}
+                  displayHeight={"61px" as const}
+                  displayMaxHeight={"none" as const}
+                  displayMaxWidth={"100%" as const}
+                  displayMinHeight={"0" as const}
+                  displayMinWidth={"0" as const}
+                  displayWidth={"61px" as const}
+                  loading={"lazy" as const}
+                  src={{
+                    src: "/plasmic/blank_project/images/group50648.svg",
+                    fullWidth: 61,
+                    fullHeight: 61,
+                    aspectRatio: 1
+                  }}
+                />
+
+                <p.PlasmicImg
+                  alt={""}
+                  className={classNames(sty.img__bRm2)}
+                  displayHeight={"64px" as const}
+                  displayMaxHeight={"none" as const}
+                  displayMaxWidth={"100%" as const}
+                  displayMinHeight={"0" as const}
+                  displayMinWidth={"0" as const}
+                  displayWidth={"64px" as const}
+                  loading={"lazy" as const}
+                  src={{
+                    src: "/plasmic/blank_project/images/youtube2.svg",
+                    fullWidth: 64,
+                    fullHeight: 64,
+                    aspectRatio: 1
+                  }}
+                />
+              </div>
+            </div>
+
+            <div
+              data-plasmic-name={"group50693"}
+              data-plasmic-override={overrides.group50693}
+              className={classNames(projectcss.all, sty.group50693)}
+            >
+              <div
+                className={classNames(
+                  projectcss.all,
+                  projectcss.__wab_text,
+                  sty.text__dVs1E
+                )}
+              >
+                {"Veja como você pode ganhar"}
+              </div>
+
+              <Union4Icon
+                className={classNames(projectcss.all, sty.svg__p54Nw)}
+                role={"img"}
+              />
+
+              <div
+                data-plasmic-name={"btnComecar2"}
+                data-plasmic-override={overrides.btnComecar2}
+                className={classNames(projectcss.all, sty.btnComecar2)}
+              >
+                <div
+                  data-plasmic-name={"rectangle38"}
+                  data-plasmic-override={overrides.rectangle38}
+                  className={classNames(projectcss.all, sty.rectangle38)}
+                />
+
+                <div
+                  className={classNames(
+                    projectcss.all,
+                    projectcss.__wab_text,
+                    sty.text__cm5Wy
+                  )}
+                >
+                  {"Cadastre-se"}
+                </div>
+              </div>
+            </div>
+
+            <div
+              data-plasmic-name={"btnComecar3"}
+              data-plasmic-override={overrides.btnComecar3}
+              className={classNames(projectcss.all, sty.btnComecar3)}
+            >
+              <div
+                data-plasmic-name={"rectangle39"}
+                data-plasmic-override={overrides.rectangle39}
+                className={classNames(projectcss.all, sty.rectangle39)}
+              />
+
+              <div
+                className={classNames(
+                  projectcss.all,
+                  projectcss.__wab_text,
+                  sty.text__uRykT
+                )}
+              >
+                {"Criar conta"}
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </React.Fragment>
@@ -161,19 +3597,1432 @@ function PlasmicHomepage__RenderFunc(props: {
 }
 
 const PlasmicDescendants = {
-  root: ["root", "section", "h1", "text"],
-  section: ["section", "h1", "text"],
-  h1: ["h1"],
-  text: ["text"]
+  root: [
+    "root",
+    "telaInicial",
+    "rectangle6204",
+    "group8",
+    "rectangle3",
+    "maskGroup",
+    "image39",
+    "fire",
+    "group10",
+    "group3",
+    "rectangle4",
+    "rectangle5",
+    "rectangle6",
+    "rectangle7",
+    "group9",
+    "rectangle1",
+    "group16",
+    "group50716",
+    "group50688",
+    "rectangle2",
+    "group50619",
+    "maskGroup2",
+    "image6",
+    "image9",
+    "image40",
+    "maskGroup3",
+    "image7",
+    "image8",
+    "image74",
+    "maskGroup4",
+    "image10",
+    "image73",
+    "maskGroup5",
+    "image11",
+    "image12",
+    "image29",
+    "maskGroup6",
+    "image13",
+    "image14",
+    "image15",
+    "image30",
+    "maskGroup7",
+    "image16",
+    "image17",
+    "image31",
+    "group5",
+    "group4",
+    "group2",
+    "group6",
+    "group7",
+    "group11",
+    "group12",
+    "group50684",
+    "group43",
+    "rectangle8",
+    "maskGroup8",
+    "pexelsMiriamAlonso75856301",
+    "group53",
+    "group49",
+    "group54",
+    "group50682",
+    "group52",
+    "group28",
+    "rectangle20",
+    "maskGroup9",
+    "image51",
+    "image52",
+    "group29",
+    "rectangle21",
+    "maskGroup10",
+    "image53",
+    "image54",
+    "image55",
+    "group50650",
+    "image75",
+    "group50681",
+    "group45",
+    "group48",
+    "group50",
+    "group27",
+    "rectangle22",
+    "maskGroup11",
+    "image56",
+    "paginaIncialComoFuncionaLojasParceirasCreattors",
+    "rectangle6213",
+    "group50687",
+    "rectangle9",
+    "rectangle10",
+    "group50751",
+    "rectangle6205",
+    "rectangle6206",
+    "rectangle6207",
+    "group30",
+    "group25",
+    "maskGroup12",
+    "group50671",
+    "rectangle17",
+    "rectangle23",
+    "rectangle24",
+    "image69",
+    "rectangle25",
+    "logoVert4",
+    "group17",
+    "group41",
+    "group24",
+    "group39",
+    "group31",
+    "group32",
+    "group33",
+    "group26",
+    "group34",
+    "group35",
+    "group36",
+    "maskGroup13",
+    "lauraChouetteVsAd6PfDhbcUnsplash1",
+    "group37",
+    "group50696",
+    "rectangle18",
+    "group38",
+    "rectangle11",
+    "rectangle19",
+    "group50695",
+    "group44",
+    "rectangle12",
+    "verTodasLojasParceiras",
+    "group55",
+    "dicasParaGravarSeusVideos",
+    "group56",
+    "vejaQuantoVocePodeGanhar",
+    "group50749",
+    "group50690",
+    "btnComecar",
+    "rectangle13",
+    "group42",
+    "rectangle14",
+    "rectangle6214",
+    "group47",
+    "rectangle15",
+    "maskGroup14",
+    "image64",
+    "maskGroup15",
+    "image65",
+    "maskGroup16",
+    "image66",
+    "maskGroup17",
+    "image60",
+    "maskGroup18",
+    "image61",
+    "group50700",
+    "group58",
+    "rectangle16",
+    "maskGroup19",
+    "image67",
+    "image68",
+    "group50685",
+    "rectangle26",
+    "maskGroup20",
+    "image70",
+    "image71",
+    "group50689",
+    "rectangle27",
+    "maskGroup21",
+    "image72",
+    "image76",
+    "group59",
+    "rectangle28",
+    "maskGroup22",
+    "image77",
+    "group50686",
+    "rectangle29",
+    "maskGroup23",
+    "image78",
+    "group50699",
+    "rectangle6212",
+    "rodape",
+    "group50698",
+    "image79",
+    "image80",
+    "image81",
+    "group50645",
+    "group50644",
+    "group50641",
+    "rectangle6196",
+    "group50642",
+    "instagram",
+    "rectangle6197",
+    "group50643",
+    "rectangle6198",
+    "group50646",
+    "group60",
+    "rectangle30",
+    "group50648",
+    "rectangle31",
+    "maskGroup24",
+    "image82",
+    "image83",
+    "group50658",
+    "rectangle6202",
+    "rectangle6203",
+    "group50691",
+    "rectangle32",
+    "maskGroup25",
+    "image84",
+    "image85",
+    "group50649",
+    "rectangle33",
+    "maskGroup26",
+    "image86",
+    "image87",
+    "image88",
+    "group50659",
+    "rectangle6208",
+    "rectangle6209",
+    "group50701",
+    "group46",
+    "rectangle34",
+    "maskGroup27",
+    "pexelsMiriamAlonso75856302",
+    "group57",
+    "group51",
+    "group61",
+    "group50683",
+    "group62",
+    "group40",
+    "rectangle35",
+    "maskGroup28",
+    "image89",
+    "image90",
+    "group63",
+    "rectangle36",
+    "maskGroup29",
+    "image91",
+    "group50651",
+    "image92",
+    "group50692",
+    "group64",
+    "group65",
+    "group66",
+    "group67",
+    "rectangle37",
+    "maskGroup30",
+    "image93",
+    "group50693",
+    "btnComecar2",
+    "rectangle38",
+    "btnComecar3",
+    "rectangle39"
+  ],
+  telaInicial: [
+    "telaInicial",
+    "rectangle6204",
+    "group8",
+    "rectangle3",
+    "maskGroup",
+    "image39",
+    "fire",
+    "group10",
+    "group3",
+    "rectangle4",
+    "rectangle5",
+    "rectangle6",
+    "rectangle7",
+    "group9",
+    "rectangle1",
+    "group16",
+    "group50716",
+    "group50688",
+    "rectangle2",
+    "group50619",
+    "maskGroup2",
+    "image6",
+    "image9",
+    "image40",
+    "maskGroup3",
+    "image7",
+    "image8",
+    "image74",
+    "maskGroup4",
+    "image10",
+    "image73",
+    "maskGroup5",
+    "image11",
+    "image12",
+    "image29",
+    "maskGroup6",
+    "image13",
+    "image14",
+    "image15",
+    "image30",
+    "maskGroup7",
+    "image16",
+    "image17",
+    "image31",
+    "group5",
+    "group4",
+    "group2",
+    "group6",
+    "group7",
+    "group11",
+    "group12",
+    "group50684",
+    "group43",
+    "rectangle8",
+    "maskGroup8",
+    "pexelsMiriamAlonso75856301",
+    "group53",
+    "group49",
+    "group54",
+    "group50682",
+    "group52",
+    "group28",
+    "rectangle20",
+    "maskGroup9",
+    "image51",
+    "image52",
+    "group29",
+    "rectangle21",
+    "maskGroup10",
+    "image53",
+    "image54",
+    "image55",
+    "group50650",
+    "image75",
+    "group50681",
+    "group45",
+    "group48",
+    "group50",
+    "group27",
+    "rectangle22",
+    "maskGroup11",
+    "image56",
+    "paginaIncialComoFuncionaLojasParceirasCreattors",
+    "rectangle6213",
+    "group50687",
+    "rectangle9",
+    "rectangle10",
+    "group50751",
+    "rectangle6205",
+    "rectangle6206",
+    "rectangle6207",
+    "group30",
+    "group25",
+    "maskGroup12",
+    "group50671",
+    "rectangle17",
+    "rectangle23",
+    "rectangle24",
+    "image69",
+    "rectangle25",
+    "logoVert4",
+    "group17",
+    "group41",
+    "group24",
+    "group39",
+    "group31",
+    "group32",
+    "group33",
+    "group26",
+    "group34",
+    "group35",
+    "group36",
+    "maskGroup13",
+    "lauraChouetteVsAd6PfDhbcUnsplash1",
+    "group37",
+    "group50696",
+    "rectangle18",
+    "group38",
+    "rectangle11",
+    "rectangle19",
+    "group50695",
+    "group44",
+    "rectangle12",
+    "verTodasLojasParceiras",
+    "group55",
+    "dicasParaGravarSeusVideos",
+    "group56",
+    "vejaQuantoVocePodeGanhar",
+    "group50749",
+    "group50690",
+    "btnComecar",
+    "rectangle13",
+    "group42",
+    "rectangle14",
+    "rectangle6214",
+    "group47",
+    "rectangle15",
+    "maskGroup14",
+    "image64",
+    "maskGroup15",
+    "image65",
+    "maskGroup16",
+    "image66",
+    "maskGroup17",
+    "image60",
+    "maskGroup18",
+    "image61",
+    "group50700",
+    "group58",
+    "rectangle16",
+    "maskGroup19",
+    "image67",
+    "image68",
+    "group50685",
+    "rectangle26",
+    "maskGroup20",
+    "image70",
+    "image71",
+    "group50689",
+    "rectangle27",
+    "maskGroup21",
+    "image72",
+    "image76",
+    "group59",
+    "rectangle28",
+    "maskGroup22",
+    "image77",
+    "group50686",
+    "rectangle29",
+    "maskGroup23",
+    "image78",
+    "group50699",
+    "rectangle6212",
+    "rodape",
+    "group50698",
+    "image79",
+    "image80",
+    "image81",
+    "group50645",
+    "group50644",
+    "group50641",
+    "rectangle6196",
+    "group50642",
+    "instagram",
+    "rectangle6197",
+    "group50643",
+    "rectangle6198",
+    "group50646",
+    "group60",
+    "rectangle30",
+    "group50648",
+    "rectangle31",
+    "maskGroup24",
+    "image82",
+    "image83",
+    "group50658",
+    "rectangle6202",
+    "rectangle6203",
+    "group50691",
+    "rectangle32",
+    "maskGroup25",
+    "image84",
+    "image85",
+    "group50649",
+    "rectangle33",
+    "maskGroup26",
+    "image86",
+    "image87",
+    "image88",
+    "group50659",
+    "rectangle6208",
+    "rectangle6209",
+    "group50701",
+    "group46",
+    "rectangle34",
+    "maskGroup27",
+    "pexelsMiriamAlonso75856302",
+    "group57",
+    "group51",
+    "group61",
+    "group50683",
+    "group62",
+    "group40",
+    "rectangle35",
+    "maskGroup28",
+    "image89",
+    "image90",
+    "group63",
+    "rectangle36",
+    "maskGroup29",
+    "image91",
+    "group50651",
+    "image92",
+    "group50692",
+    "group64",
+    "group65",
+    "group66",
+    "group67",
+    "rectangle37",
+    "maskGroup30",
+    "image93",
+    "group50693",
+    "btnComecar2",
+    "rectangle38",
+    "btnComecar3",
+    "rectangle39"
+  ],
+  rectangle6204: ["rectangle6204"],
+  group8: [
+    "group8",
+    "rectangle3",
+    "maskGroup",
+    "image39",
+    "fire",
+    "group10",
+    "group3",
+    "rectangle4",
+    "rectangle5",
+    "rectangle6",
+    "rectangle7"
+  ],
+  rectangle3: ["rectangle3"],
+  maskGroup: ["maskGroup", "image39"],
+  image39: ["image39"],
+  fire: ["fire"],
+  group10: [
+    "group10",
+    "group3",
+    "rectangle4",
+    "rectangle5",
+    "rectangle6",
+    "rectangle7"
+  ],
+  group3: ["group3", "rectangle4", "rectangle5"],
+  rectangle4: ["rectangle4"],
+  rectangle5: ["rectangle5"],
+  rectangle6: ["rectangle6"],
+  rectangle7: ["rectangle7"],
+  group9: ["group9", "rectangle1"],
+  rectangle1: ["rectangle1"],
+  group16: ["group16"],
+  group50716: [
+    "group50716",
+    "group50688",
+    "rectangle2",
+    "group50619",
+    "maskGroup2",
+    "image6",
+    "image9",
+    "image40",
+    "maskGroup3",
+    "image7",
+    "image8",
+    "image74",
+    "maskGroup4",
+    "image10",
+    "image73",
+    "maskGroup5",
+    "image11",
+    "image12",
+    "image29",
+    "maskGroup6",
+    "image13",
+    "image14",
+    "image15",
+    "image30",
+    "maskGroup7",
+    "image16",
+    "image17",
+    "image31"
+  ],
+  group50688: ["group50688", "rectangle2"],
+  rectangle2: ["rectangle2"],
+  group50619: [
+    "group50619",
+    "maskGroup2",
+    "image6",
+    "image9",
+    "image40",
+    "maskGroup3",
+    "image7",
+    "image8",
+    "image74",
+    "maskGroup4",
+    "image10",
+    "image73",
+    "maskGroup5",
+    "image11",
+    "image12",
+    "image29",
+    "maskGroup6",
+    "image13",
+    "image14",
+    "image15",
+    "image30",
+    "maskGroup7",
+    "image16",
+    "image17",
+    "image31"
+  ],
+  maskGroup2: ["maskGroup2", "image6", "image9", "image40"],
+  image6: ["image6"],
+  image9: ["image9"],
+  image40: ["image40"],
+  maskGroup3: ["maskGroup3", "image7", "image8", "image74"],
+  image7: ["image7"],
+  image8: ["image8"],
+  image74: ["image74"],
+  maskGroup4: ["maskGroup4", "image10", "image73"],
+  image10: ["image10"],
+  image73: ["image73"],
+  maskGroup5: ["maskGroup5", "image11", "image12", "image29"],
+  image11: ["image11"],
+  image12: ["image12"],
+  image29: ["image29"],
+  maskGroup6: ["maskGroup6", "image13", "image14", "image15", "image30"],
+  image13: ["image13"],
+  image14: ["image14"],
+  image15: ["image15"],
+  image30: ["image30"],
+  maskGroup7: ["maskGroup7", "image16", "image17", "image31"],
+  image16: ["image16"],
+  image17: ["image17"],
+  image31: ["image31"],
+  group5: [
+    "group5",
+    "group4",
+    "group2",
+    "group6",
+    "group7",
+    "group11",
+    "group12"
+  ],
+  group4: ["group4", "group2"],
+  group2: ["group2"],
+  group6: ["group6"],
+  group7: ["group7", "group11", "group12"],
+  group11: ["group11", "group12"],
+  group12: ["group12"],
+  group50684: [
+    "group50684",
+    "group43",
+    "rectangle8",
+    "maskGroup8",
+    "pexelsMiriamAlonso75856301",
+    "group53",
+    "group49",
+    "group54",
+    "group50682",
+    "group52",
+    "group28",
+    "rectangle20",
+    "maskGroup9",
+    "image51",
+    "image52",
+    "group29",
+    "rectangle21",
+    "maskGroup10",
+    "image53",
+    "image54",
+    "image55",
+    "group50650",
+    "image75",
+    "group50681",
+    "group45",
+    "group48",
+    "group50",
+    "group27",
+    "rectangle22",
+    "maskGroup11",
+    "image56"
+  ],
+  group43: [
+    "group43",
+    "rectangle8",
+    "maskGroup8",
+    "pexelsMiriamAlonso75856301",
+    "group53",
+    "group49",
+    "group54"
+  ],
+  rectangle8: ["rectangle8"],
+  maskGroup8: ["maskGroup8", "pexelsMiriamAlonso75856301"],
+  pexelsMiriamAlonso75856301: ["pexelsMiriamAlonso75856301"],
+  group53: ["group53"],
+  group49: ["group49"],
+  group54: ["group54"],
+  group50682: [
+    "group50682",
+    "group52",
+    "group28",
+    "rectangle20",
+    "maskGroup9",
+    "image51",
+    "image52",
+    "group29",
+    "rectangle21",
+    "maskGroup10",
+    "image53",
+    "image54",
+    "image55",
+    "group50650",
+    "image75"
+  ],
+  group52: ["group52"],
+  group28: ["group28", "rectangle20", "maskGroup9", "image51", "image52"],
+  rectangle20: ["rectangle20"],
+  maskGroup9: ["maskGroup9", "image51", "image52"],
+  image51: ["image51"],
+  image52: ["image52"],
+  group29: [
+    "group29",
+    "rectangle21",
+    "maskGroup10",
+    "image53",
+    "image54",
+    "image55"
+  ],
+  rectangle21: ["rectangle21"],
+  maskGroup10: ["maskGroup10", "image53", "image54", "image55"],
+  image53: ["image53"],
+  image54: ["image54"],
+  image55: ["image55"],
+  group50650: ["group50650", "image75"],
+  image75: ["image75"],
+  group50681: [
+    "group50681",
+    "group45",
+    "group48",
+    "group50",
+    "group27",
+    "rectangle22",
+    "maskGroup11",
+    "image56"
+  ],
+  group45: ["group45"],
+  group48: ["group48"],
+  group50: ["group50"],
+  group27: ["group27", "rectangle22", "maskGroup11", "image56"],
+  rectangle22: ["rectangle22"],
+  maskGroup11: ["maskGroup11", "image56"],
+  image56: ["image56"],
+  paginaIncialComoFuncionaLojasParceirasCreattors: [
+    "paginaIncialComoFuncionaLojasParceirasCreattors"
+  ],
+  rectangle6213: ["rectangle6213"],
+  group50687: ["group50687", "rectangle9", "rectangle10"],
+  rectangle9: ["rectangle9"],
+  rectangle10: ["rectangle10"],
+  group50751: [
+    "group50751",
+    "rectangle6205",
+    "rectangle6206",
+    "rectangle6207",
+    "group30",
+    "group25",
+    "maskGroup12",
+    "group50671",
+    "rectangle17",
+    "rectangle23",
+    "rectangle24",
+    "image69",
+    "rectangle25",
+    "logoVert4",
+    "group17",
+    "group41",
+    "group24",
+    "group39",
+    "group31",
+    "group32",
+    "group33",
+    "group26",
+    "group34",
+    "group35",
+    "group36",
+    "maskGroup13",
+    "lauraChouetteVsAd6PfDhbcUnsplash1",
+    "group37",
+    "group50696",
+    "rectangle18",
+    "group38",
+    "rectangle11",
+    "rectangle19",
+    "group50695",
+    "group44",
+    "rectangle12",
+    "verTodasLojasParceiras",
+    "group55",
+    "dicasParaGravarSeusVideos",
+    "group56",
+    "vejaQuantoVocePodeGanhar"
+  ],
+  rectangle6205: ["rectangle6205"],
+  rectangle6206: ["rectangle6206"],
+  rectangle6207: ["rectangle6207"],
+  group30: ["group30"],
+  group25: ["group25"],
+  maskGroup12: [
+    "maskGroup12",
+    "group50671",
+    "rectangle17",
+    "rectangle23",
+    "rectangle24",
+    "image69",
+    "rectangle25",
+    "logoVert4"
+  ],
+  group50671: [
+    "group50671",
+    "rectangle17",
+    "rectangle23",
+    "rectangle24",
+    "image69",
+    "rectangle25",
+    "logoVert4"
+  ],
+  rectangle17: ["rectangle17"],
+  rectangle23: ["rectangle23"],
+  rectangle24: ["rectangle24"],
+  image69: ["image69"],
+  rectangle25: ["rectangle25"],
+  logoVert4: ["logoVert4"],
+  group17: ["group17"],
+  group41: ["group41", "group24"],
+  group24: ["group24"],
+  group39: [
+    "group39",
+    "group31",
+    "group32",
+    "group33",
+    "group26",
+    "group34",
+    "group35",
+    "group36"
+  ],
+  group31: ["group31"],
+  group32: ["group32"],
+  group33: ["group33"],
+  group26: ["group26"],
+  group34: ["group34", "group35"],
+  group35: ["group35"],
+  group36: ["group36"],
+  maskGroup13: ["maskGroup13", "lauraChouetteVsAd6PfDhbcUnsplash1"],
+  lauraChouetteVsAd6PfDhbcUnsplash1: ["lauraChouetteVsAd6PfDhbcUnsplash1"],
+  group37: [
+    "group37",
+    "group50696",
+    "rectangle18",
+    "group38",
+    "rectangle11",
+    "rectangle19",
+    "group50695"
+  ],
+  group50696: [
+    "group50696",
+    "rectangle18",
+    "group38",
+    "rectangle11",
+    "rectangle19",
+    "group50695"
+  ],
+  rectangle18: ["rectangle18"],
+  group38: ["group38", "rectangle11", "rectangle19"],
+  rectangle11: ["rectangle11"],
+  rectangle19: ["rectangle19"],
+  group50695: ["group50695"],
+  group44: ["group44", "rectangle12", "verTodasLojasParceiras"],
+  rectangle12: ["rectangle12"],
+  verTodasLojasParceiras: ["verTodasLojasParceiras"],
+  group55: ["group55", "dicasParaGravarSeusVideos"],
+  dicasParaGravarSeusVideos: ["dicasParaGravarSeusVideos"],
+  group56: ["group56", "vejaQuantoVocePodeGanhar"],
+  vejaQuantoVocePodeGanhar: ["vejaQuantoVocePodeGanhar"],
+  group50749: [
+    "group50749",
+    "group50690",
+    "btnComecar",
+    "rectangle13",
+    "group42",
+    "rectangle14"
+  ],
+  group50690: ["group50690", "btnComecar", "rectangle13"],
+  btnComecar: ["btnComecar", "rectangle13"],
+  rectangle13: ["rectangle13"],
+  group42: ["group42", "rectangle14"],
+  rectangle14: ["rectangle14"],
+  rectangle6214: ["rectangle6214"],
+  group47: [
+    "group47",
+    "rectangle15",
+    "maskGroup14",
+    "image64",
+    "maskGroup15",
+    "image65",
+    "maskGroup16",
+    "image66",
+    "maskGroup17",
+    "image60",
+    "maskGroup18",
+    "image61"
+  ],
+  rectangle15: ["rectangle15"],
+  maskGroup14: ["maskGroup14", "image64"],
+  image64: ["image64"],
+  maskGroup15: ["maskGroup15", "image65"],
+  image65: ["image65"],
+  maskGroup16: ["maskGroup16", "image66"],
+  image66: ["image66"],
+  maskGroup17: ["maskGroup17", "image60"],
+  image60: ["image60"],
+  maskGroup18: ["maskGroup18", "image61"],
+  image61: ["image61"],
+  group50700: [
+    "group50700",
+    "group58",
+    "rectangle16",
+    "maskGroup19",
+    "image67",
+    "image68",
+    "group50685",
+    "rectangle26",
+    "maskGroup20",
+    "image70",
+    "image71",
+    "group50689",
+    "rectangle27",
+    "maskGroup21",
+    "image72",
+    "image76",
+    "group59",
+    "rectangle28",
+    "maskGroup22",
+    "image77",
+    "group50686",
+    "rectangle29",
+    "maskGroup23",
+    "image78"
+  ],
+  group58: ["group58", "rectangle16", "maskGroup19", "image67", "image68"],
+  rectangle16: ["rectangle16"],
+  maskGroup19: ["maskGroup19", "image67", "image68"],
+  image67: ["image67"],
+  image68: ["image68"],
+  group50685: [
+    "group50685",
+    "rectangle26",
+    "maskGroup20",
+    "image70",
+    "image71"
+  ],
+  rectangle26: ["rectangle26"],
+  maskGroup20: ["maskGroup20", "image70", "image71"],
+  image70: ["image70"],
+  image71: ["image71"],
+  group50689: [
+    "group50689",
+    "rectangle27",
+    "maskGroup21",
+    "image72",
+    "image76"
+  ],
+  rectangle27: ["rectangle27"],
+  maskGroup21: ["maskGroup21", "image72", "image76"],
+  image72: ["image72"],
+  image76: ["image76"],
+  group59: ["group59", "rectangle28", "maskGroup22", "image77"],
+  rectangle28: ["rectangle28"],
+  maskGroup22: ["maskGroup22", "image77"],
+  image77: ["image77"],
+  group50686: ["group50686", "rectangle29", "maskGroup23", "image78"],
+  rectangle29: ["rectangle29"],
+  maskGroup23: ["maskGroup23", "image78"],
+  image78: ["image78"],
+  group50699: [
+    "group50699",
+    "rectangle6212",
+    "rodape",
+    "group50698",
+    "image79",
+    "image80",
+    "image81",
+    "group50645",
+    "group50644",
+    "group50641",
+    "rectangle6196",
+    "group50642",
+    "instagram",
+    "rectangle6197",
+    "group50643",
+    "rectangle6198",
+    "group50646"
+  ],
+  rectangle6212: ["rectangle6212"],
+  rodape: [
+    "rodape",
+    "group50698",
+    "image79",
+    "image80",
+    "image81",
+    "group50645",
+    "group50644",
+    "group50641",
+    "rectangle6196",
+    "group50642",
+    "instagram",
+    "rectangle6197",
+    "group50643",
+    "rectangle6198",
+    "group50646"
+  ],
+  group50698: ["group50698", "image79", "image80", "image81"],
+  image79: ["image79"],
+  image80: ["image80"],
+  image81: ["image81"],
+  group50645: [
+    "group50645",
+    "group50644",
+    "group50641",
+    "rectangle6196",
+    "group50642",
+    "instagram",
+    "rectangle6197",
+    "group50643",
+    "rectangle6198"
+  ],
+  group50644: [
+    "group50644",
+    "group50641",
+    "rectangle6196",
+    "group50642",
+    "instagram",
+    "rectangle6197",
+    "group50643",
+    "rectangle6198"
+  ],
+  group50641: ["group50641", "rectangle6196"],
+  rectangle6196: ["rectangle6196"],
+  group50642: ["group50642", "instagram", "rectangle6197"],
+  instagram: ["instagram"],
+  rectangle6197: ["rectangle6197"],
+  group50643: ["group50643", "rectangle6198"],
+  rectangle6198: ["rectangle6198"],
+  group50646: ["group50646"],
+  group60: ["group60", "rectangle30"],
+  rectangle30: ["rectangle30"],
+  group50648: [
+    "group50648",
+    "rectangle31",
+    "maskGroup24",
+    "image82",
+    "image83",
+    "group50658",
+    "rectangle6202",
+    "rectangle6203"
+  ],
+  rectangle31: ["rectangle31"],
+  maskGroup24: ["maskGroup24", "image82", "image83"],
+  image82: ["image82"],
+  image83: ["image83"],
+  group50658: ["group50658", "rectangle6202", "rectangle6203"],
+  rectangle6202: ["rectangle6202"],
+  rectangle6203: ["rectangle6203"],
+  group50691: [
+    "group50691",
+    "rectangle32",
+    "maskGroup25",
+    "image84",
+    "image85"
+  ],
+  rectangle32: ["rectangle32"],
+  maskGroup25: ["maskGroup25", "image84", "image85"],
+  image84: ["image84"],
+  image85: ["image85"],
+  group50649: [
+    "group50649",
+    "rectangle33",
+    "maskGroup26",
+    "image86",
+    "image87",
+    "image88"
+  ],
+  rectangle33: ["rectangle33"],
+  maskGroup26: ["maskGroup26", "image86", "image87", "image88"],
+  image86: ["image86"],
+  image87: ["image87"],
+  image88: ["image88"],
+  group50659: ["group50659", "rectangle6208", "rectangle6209"],
+  rectangle6208: ["rectangle6208"],
+  rectangle6209: ["rectangle6209"],
+  group50701: [
+    "group50701",
+    "group46",
+    "rectangle34",
+    "maskGroup27",
+    "pexelsMiriamAlonso75856302",
+    "group57",
+    "group51",
+    "group61",
+    "group50683",
+    "group62",
+    "group40",
+    "rectangle35",
+    "maskGroup28",
+    "image89",
+    "image90",
+    "group63",
+    "rectangle36",
+    "maskGroup29",
+    "image91",
+    "group50651",
+    "image92",
+    "group50692",
+    "group64",
+    "group65",
+    "group66",
+    "group67",
+    "rectangle37",
+    "maskGroup30",
+    "image93"
+  ],
+  group46: [
+    "group46",
+    "rectangle34",
+    "maskGroup27",
+    "pexelsMiriamAlonso75856302",
+    "group57",
+    "group51",
+    "group61"
+  ],
+  rectangle34: ["rectangle34"],
+  maskGroup27: ["maskGroup27", "pexelsMiriamAlonso75856302"],
+  pexelsMiriamAlonso75856302: ["pexelsMiriamAlonso75856302"],
+  group57: ["group57"],
+  group51: ["group51"],
+  group61: ["group61"],
+  group50683: [
+    "group50683",
+    "group62",
+    "group40",
+    "rectangle35",
+    "maskGroup28",
+    "image89",
+    "image90",
+    "group63",
+    "rectangle36",
+    "maskGroup29",
+    "image91",
+    "group50651",
+    "image92"
+  ],
+  group62: ["group62"],
+  group40: ["group40", "rectangle35", "maskGroup28", "image89", "image90"],
+  rectangle35: ["rectangle35"],
+  maskGroup28: ["maskGroup28", "image89", "image90"],
+  image89: ["image89"],
+  image90: ["image90"],
+  group63: ["group63", "rectangle36", "maskGroup29", "image91"],
+  rectangle36: ["rectangle36"],
+  maskGroup29: ["maskGroup29", "image91"],
+  image91: ["image91"],
+  group50651: ["group50651", "image92"],
+  image92: ["image92"],
+  group50692: [
+    "group50692",
+    "group64",
+    "group65",
+    "group66",
+    "group67",
+    "rectangle37",
+    "maskGroup30",
+    "image93"
+  ],
+  group64: ["group64"],
+  group65: ["group65"],
+  group66: ["group66"],
+  group67: ["group67", "rectangle37", "maskGroup30", "image93"],
+  rectangle37: ["rectangle37"],
+  maskGroup30: ["maskGroup30", "image93"],
+  image93: ["image93"],
+  group50693: ["group50693", "btnComecar2", "rectangle38"],
+  btnComecar2: ["btnComecar2", "rectangle38"],
+  rectangle38: ["rectangle38"],
+  btnComecar3: ["btnComecar3", "rectangle39"],
+  rectangle39: ["rectangle39"]
 } as const;
 type NodeNameType = keyof typeof PlasmicDescendants;
 type DescendantsType<T extends NodeNameType> =
   typeof PlasmicDescendants[T][number];
 type NodeDefaultElementType = {
   root: "div";
-  section: "section";
-  h1: "h1";
-  text: "div";
+  telaInicial: "div";
+  rectangle6204: "div";
+  group8: "div";
+  rectangle3: "div";
+  maskGroup: "div";
+  image39: "div";
+  fire: "div";
+  group10: "div";
+  group3: "div";
+  rectangle4: "div";
+  rectangle5: "div";
+  rectangle6: "div";
+  rectangle7: "div";
+  group9: "div";
+  rectangle1: "div";
+  group16: "div";
+  group50716: "div";
+  group50688: "div";
+  rectangle2: "div";
+  group50619: "div";
+  maskGroup2: "div";
+  image6: "div";
+  image9: "div";
+  image40: "div";
+  maskGroup3: "div";
+  image7: "div";
+  image8: "div";
+  image74: "div";
+  maskGroup4: "div";
+  image10: "div";
+  image73: "div";
+  maskGroup5: "div";
+  image11: "div";
+  image12: "div";
+  image29: "div";
+  maskGroup6: "div";
+  image13: "div";
+  image14: "div";
+  image15: "div";
+  image30: "div";
+  maskGroup7: "div";
+  image16: "div";
+  image17: "div";
+  image31: "div";
+  group5: "div";
+  group4: "div";
+  group2: "div";
+  group6: "div";
+  group7: "div";
+  group11: "div";
+  group12: "div";
+  group50684: "div";
+  group43: "div";
+  rectangle8: "div";
+  maskGroup8: "div";
+  pexelsMiriamAlonso75856301: "div";
+  group53: "div";
+  group49: "div";
+  group54: "div";
+  group50682: "div";
+  group52: "div";
+  group28: "div";
+  rectangle20: "div";
+  maskGroup9: "div";
+  image51: "div";
+  image52: "div";
+  group29: "div";
+  rectangle21: "div";
+  maskGroup10: "div";
+  image53: "div";
+  image54: "div";
+  image55: "div";
+  group50650: "div";
+  image75: "div";
+  group50681: "div";
+  group45: "div";
+  group48: "div";
+  group50: "div";
+  group27: "div";
+  rectangle22: "div";
+  maskGroup11: "div";
+  image56: "div";
+  paginaIncialComoFuncionaLojasParceirasCreattors: "div";
+  rectangle6213: "div";
+  group50687: "div";
+  rectangle9: "div";
+  rectangle10: "div";
+  group50751: "div";
+  rectangle6205: "div";
+  rectangle6206: "div";
+  rectangle6207: "div";
+  group30: "div";
+  group25: "div";
+  maskGroup12: "div";
+  group50671: "div";
+  rectangle17: "div";
+  rectangle23: "div";
+  rectangle24: "div";
+  image69: "div";
+  rectangle25: "div";
+  logoVert4: "div";
+  group17: "div";
+  group41: "div";
+  group24: "div";
+  group39: "div";
+  group31: "div";
+  group32: "div";
+  group33: "div";
+  group26: "div";
+  group34: "div";
+  group35: "div";
+  group36: "div";
+  maskGroup13: "div";
+  lauraChouetteVsAd6PfDhbcUnsplash1: "div";
+  group37: "div";
+  group50696: "div";
+  rectangle18: "div";
+  group38: "div";
+  rectangle11: "div";
+  rectangle19: "div";
+  group50695: "div";
+  group44: "div";
+  rectangle12: "div";
+  verTodasLojasParceiras: "div";
+  group55: "div";
+  dicasParaGravarSeusVideos: "div";
+  group56: "div";
+  vejaQuantoVocePodeGanhar: "div";
+  group50749: "div";
+  group50690: "div";
+  btnComecar: "div";
+  rectangle13: "div";
+  group42: "div";
+  rectangle14: "div";
+  rectangle6214: "div";
+  group47: "div";
+  rectangle15: "div";
+  maskGroup14: "div";
+  image64: "div";
+  maskGroup15: "div";
+  image65: "div";
+  maskGroup16: "div";
+  image66: "div";
+  maskGroup17: "div";
+  image60: "div";
+  maskGroup18: "div";
+  image61: "div";
+  group50700: "div";
+  group58: "div";
+  rectangle16: "div";
+  maskGroup19: "div";
+  image67: "div";
+  image68: "div";
+  group50685: "div";
+  rectangle26: "div";
+  maskGroup20: "div";
+  image70: "div";
+  image71: "div";
+  group50689: "div";
+  rectangle27: "div";
+  maskGroup21: "div";
+  image72: "div";
+  image76: "div";
+  group59: "div";
+  rectangle28: "div";
+  maskGroup22: "div";
+  image77: "div";
+  group50686: "div";
+  rectangle29: "div";
+  maskGroup23: "div";
+  image78: "div";
+  group50699: "div";
+  rectangle6212: "div";
+  rodape: "div";
+  group50698: "div";
+  image79: "div";
+  image80: "div";
+  image81: "div";
+  group50645: "div";
+  group50644: "div";
+  group50641: "div";
+  rectangle6196: "div";
+  group50642: "div";
+  instagram: "div";
+  rectangle6197: "div";
+  group50643: "div";
+  rectangle6198: "div";
+  group50646: "div";
+  group60: "div";
+  rectangle30: "div";
+  group50648: "div";
+  rectangle31: "div";
+  maskGroup24: "div";
+  image82: "div";
+  image83: "div";
+  group50658: "div";
+  rectangle6202: "div";
+  rectangle6203: "div";
+  group50691: "div";
+  rectangle32: "div";
+  maskGroup25: "div";
+  image84: "div";
+  image85: "div";
+  group50649: "div";
+  rectangle33: "div";
+  maskGroup26: "div";
+  image86: "div";
+  image87: "div";
+  image88: "div";
+  group50659: "div";
+  rectangle6208: "div";
+  rectangle6209: "div";
+  group50701: "div";
+  group46: "div";
+  rectangle34: "div";
+  maskGroup27: "div";
+  pexelsMiriamAlonso75856302: "div";
+  group57: "div";
+  group51: "div";
+  group61: "div";
+  group50683: "div";
+  group62: "div";
+  group40: "div";
+  rectangle35: "div";
+  maskGroup28: "div";
+  image89: "div";
+  image90: "div";
+  group63: "div";
+  rectangle36: "div";
+  maskGroup29: "div";
+  image91: "div";
+  group50651: "div";
+  image92: "div";
+  group50692: "div";
+  group64: "div";
+  group65: "div";
+  group66: "div";
+  group67: "div";
+  rectangle37: "div";
+  maskGroup30: "div";
+  image93: "div";
+  group50693: "div";
+  btnComecar2: "div";
+  rectangle38: "div";
+  btnComecar3: "div";
+  rectangle39: "div";
 };
 
 type ReservedPropsType = "variants" | "args" | "overrides";
@@ -237,9 +5086,256 @@ export const PlasmicHomepage = Object.assign(
   makeNodeComponent("root"),
   {
     // Helper components rendering sub-elements
-    section: makeNodeComponent("section"),
-    h1: makeNodeComponent("h1"),
-    text: makeNodeComponent("text"),
+    telaInicial: makeNodeComponent("telaInicial"),
+    rectangle6204: makeNodeComponent("rectangle6204"),
+    group8: makeNodeComponent("group8"),
+    rectangle3: makeNodeComponent("rectangle3"),
+    maskGroup: makeNodeComponent("maskGroup"),
+    image39: makeNodeComponent("image39"),
+    fire: makeNodeComponent("fire"),
+    group10: makeNodeComponent("group10"),
+    group3: makeNodeComponent("group3"),
+    rectangle4: makeNodeComponent("rectangle4"),
+    rectangle5: makeNodeComponent("rectangle5"),
+    rectangle6: makeNodeComponent("rectangle6"),
+    rectangle7: makeNodeComponent("rectangle7"),
+    group9: makeNodeComponent("group9"),
+    rectangle1: makeNodeComponent("rectangle1"),
+    group16: makeNodeComponent("group16"),
+    group50716: makeNodeComponent("group50716"),
+    group50688: makeNodeComponent("group50688"),
+    rectangle2: makeNodeComponent("rectangle2"),
+    group50619: makeNodeComponent("group50619"),
+    maskGroup2: makeNodeComponent("maskGroup2"),
+    image6: makeNodeComponent("image6"),
+    image9: makeNodeComponent("image9"),
+    image40: makeNodeComponent("image40"),
+    maskGroup3: makeNodeComponent("maskGroup3"),
+    image7: makeNodeComponent("image7"),
+    image8: makeNodeComponent("image8"),
+    image74: makeNodeComponent("image74"),
+    maskGroup4: makeNodeComponent("maskGroup4"),
+    image10: makeNodeComponent("image10"),
+    image73: makeNodeComponent("image73"),
+    maskGroup5: makeNodeComponent("maskGroup5"),
+    image11: makeNodeComponent("image11"),
+    image12: makeNodeComponent("image12"),
+    image29: makeNodeComponent("image29"),
+    maskGroup6: makeNodeComponent("maskGroup6"),
+    image13: makeNodeComponent("image13"),
+    image14: makeNodeComponent("image14"),
+    image15: makeNodeComponent("image15"),
+    image30: makeNodeComponent("image30"),
+    maskGroup7: makeNodeComponent("maskGroup7"),
+    image16: makeNodeComponent("image16"),
+    image17: makeNodeComponent("image17"),
+    image31: makeNodeComponent("image31"),
+    group5: makeNodeComponent("group5"),
+    group4: makeNodeComponent("group4"),
+    group2: makeNodeComponent("group2"),
+    group6: makeNodeComponent("group6"),
+    group7: makeNodeComponent("group7"),
+    group11: makeNodeComponent("group11"),
+    group12: makeNodeComponent("group12"),
+    group50684: makeNodeComponent("group50684"),
+    group43: makeNodeComponent("group43"),
+    rectangle8: makeNodeComponent("rectangle8"),
+    maskGroup8: makeNodeComponent("maskGroup8"),
+    pexelsMiriamAlonso75856301: makeNodeComponent("pexelsMiriamAlonso75856301"),
+    group53: makeNodeComponent("group53"),
+    group49: makeNodeComponent("group49"),
+    group54: makeNodeComponent("group54"),
+    group50682: makeNodeComponent("group50682"),
+    group52: makeNodeComponent("group52"),
+    group28: makeNodeComponent("group28"),
+    rectangle20: makeNodeComponent("rectangle20"),
+    maskGroup9: makeNodeComponent("maskGroup9"),
+    image51: makeNodeComponent("image51"),
+    image52: makeNodeComponent("image52"),
+    group29: makeNodeComponent("group29"),
+    rectangle21: makeNodeComponent("rectangle21"),
+    maskGroup10: makeNodeComponent("maskGroup10"),
+    image53: makeNodeComponent("image53"),
+    image54: makeNodeComponent("image54"),
+    image55: makeNodeComponent("image55"),
+    group50650: makeNodeComponent("group50650"),
+    image75: makeNodeComponent("image75"),
+    group50681: makeNodeComponent("group50681"),
+    group45: makeNodeComponent("group45"),
+    group48: makeNodeComponent("group48"),
+    group50: makeNodeComponent("group50"),
+    group27: makeNodeComponent("group27"),
+    rectangle22: makeNodeComponent("rectangle22"),
+    maskGroup11: makeNodeComponent("maskGroup11"),
+    image56: makeNodeComponent("image56"),
+    paginaIncialComoFuncionaLojasParceirasCreattors: makeNodeComponent(
+      "paginaIncialComoFuncionaLojasParceirasCreattors"
+    ),
+    rectangle6213: makeNodeComponent("rectangle6213"),
+    group50687: makeNodeComponent("group50687"),
+    rectangle9: makeNodeComponent("rectangle9"),
+    rectangle10: makeNodeComponent("rectangle10"),
+    group50751: makeNodeComponent("group50751"),
+    rectangle6205: makeNodeComponent("rectangle6205"),
+    rectangle6206: makeNodeComponent("rectangle6206"),
+    rectangle6207: makeNodeComponent("rectangle6207"),
+    group30: makeNodeComponent("group30"),
+    group25: makeNodeComponent("group25"),
+    maskGroup12: makeNodeComponent("maskGroup12"),
+    group50671: makeNodeComponent("group50671"),
+    rectangle17: makeNodeComponent("rectangle17"),
+    rectangle23: makeNodeComponent("rectangle23"),
+    rectangle24: makeNodeComponent("rectangle24"),
+    image69: makeNodeComponent("image69"),
+    rectangle25: makeNodeComponent("rectangle25"),
+    logoVert4: makeNodeComponent("logoVert4"),
+    group17: makeNodeComponent("group17"),
+    group41: makeNodeComponent("group41"),
+    group24: makeNodeComponent("group24"),
+    group39: makeNodeComponent("group39"),
+    group31: makeNodeComponent("group31"),
+    group32: makeNodeComponent("group32"),
+    group33: makeNodeComponent("group33"),
+    group26: makeNodeComponent("group26"),
+    group34: makeNodeComponent("group34"),
+    group35: makeNodeComponent("group35"),
+    group36: makeNodeComponent("group36"),
+    maskGroup13: makeNodeComponent("maskGroup13"),
+    lauraChouetteVsAd6PfDhbcUnsplash1: makeNodeComponent(
+      "lauraChouetteVsAd6PfDhbcUnsplash1"
+    ),
+    group37: makeNodeComponent("group37"),
+    group50696: makeNodeComponent("group50696"),
+    rectangle18: makeNodeComponent("rectangle18"),
+    group38: makeNodeComponent("group38"),
+    rectangle11: makeNodeComponent("rectangle11"),
+    rectangle19: makeNodeComponent("rectangle19"),
+    group50695: makeNodeComponent("group50695"),
+    group44: makeNodeComponent("group44"),
+    rectangle12: makeNodeComponent("rectangle12"),
+    verTodasLojasParceiras: makeNodeComponent("verTodasLojasParceiras"),
+    group55: makeNodeComponent("group55"),
+    dicasParaGravarSeusVideos: makeNodeComponent("dicasParaGravarSeusVideos"),
+    group56: makeNodeComponent("group56"),
+    vejaQuantoVocePodeGanhar: makeNodeComponent("vejaQuantoVocePodeGanhar"),
+    group50749: makeNodeComponent("group50749"),
+    group50690: makeNodeComponent("group50690"),
+    btnComecar: makeNodeComponent("btnComecar"),
+    rectangle13: makeNodeComponent("rectangle13"),
+    group42: makeNodeComponent("group42"),
+    rectangle14: makeNodeComponent("rectangle14"),
+    rectangle6214: makeNodeComponent("rectangle6214"),
+    group47: makeNodeComponent("group47"),
+    rectangle15: makeNodeComponent("rectangle15"),
+    maskGroup14: makeNodeComponent("maskGroup14"),
+    image64: makeNodeComponent("image64"),
+    maskGroup15: makeNodeComponent("maskGroup15"),
+    image65: makeNodeComponent("image65"),
+    maskGroup16: makeNodeComponent("maskGroup16"),
+    image66: makeNodeComponent("image66"),
+    maskGroup17: makeNodeComponent("maskGroup17"),
+    image60: makeNodeComponent("image60"),
+    maskGroup18: makeNodeComponent("maskGroup18"),
+    image61: makeNodeComponent("image61"),
+    group50700: makeNodeComponent("group50700"),
+    group58: makeNodeComponent("group58"),
+    rectangle16: makeNodeComponent("rectangle16"),
+    maskGroup19: makeNodeComponent("maskGroup19"),
+    image67: makeNodeComponent("image67"),
+    image68: makeNodeComponent("image68"),
+    group50685: makeNodeComponent("group50685"),
+    rectangle26: makeNodeComponent("rectangle26"),
+    maskGroup20: makeNodeComponent("maskGroup20"),
+    image70: makeNodeComponent("image70"),
+    image71: makeNodeComponent("image71"),
+    group50689: makeNodeComponent("group50689"),
+    rectangle27: makeNodeComponent("rectangle27"),
+    maskGroup21: makeNodeComponent("maskGroup21"),
+    image72: makeNodeComponent("image72"),
+    image76: makeNodeComponent("image76"),
+    group59: makeNodeComponent("group59"),
+    rectangle28: makeNodeComponent("rectangle28"),
+    maskGroup22: makeNodeComponent("maskGroup22"),
+    image77: makeNodeComponent("image77"),
+    group50686: makeNodeComponent("group50686"),
+    rectangle29: makeNodeComponent("rectangle29"),
+    maskGroup23: makeNodeComponent("maskGroup23"),
+    image78: makeNodeComponent("image78"),
+    group50699: makeNodeComponent("group50699"),
+    rectangle6212: makeNodeComponent("rectangle6212"),
+    rodape: makeNodeComponent("rodape"),
+    group50698: makeNodeComponent("group50698"),
+    image79: makeNodeComponent("image79"),
+    image80: makeNodeComponent("image80"),
+    image81: makeNodeComponent("image81"),
+    group50645: makeNodeComponent("group50645"),
+    group50644: makeNodeComponent("group50644"),
+    group50641: makeNodeComponent("group50641"),
+    rectangle6196: makeNodeComponent("rectangle6196"),
+    group50642: makeNodeComponent("group50642"),
+    instagram: makeNodeComponent("instagram"),
+    rectangle6197: makeNodeComponent("rectangle6197"),
+    group50643: makeNodeComponent("group50643"),
+    rectangle6198: makeNodeComponent("rectangle6198"),
+    group50646: makeNodeComponent("group50646"),
+    group60: makeNodeComponent("group60"),
+    rectangle30: makeNodeComponent("rectangle30"),
+    group50648: makeNodeComponent("group50648"),
+    rectangle31: makeNodeComponent("rectangle31"),
+    maskGroup24: makeNodeComponent("maskGroup24"),
+    image82: makeNodeComponent("image82"),
+    image83: makeNodeComponent("image83"),
+    group50658: makeNodeComponent("group50658"),
+    rectangle6202: makeNodeComponent("rectangle6202"),
+    rectangle6203: makeNodeComponent("rectangle6203"),
+    group50691: makeNodeComponent("group50691"),
+    rectangle32: makeNodeComponent("rectangle32"),
+    maskGroup25: makeNodeComponent("maskGroup25"),
+    image84: makeNodeComponent("image84"),
+    image85: makeNodeComponent("image85"),
+    group50649: makeNodeComponent("group50649"),
+    rectangle33: makeNodeComponent("rectangle33"),
+    maskGroup26: makeNodeComponent("maskGroup26"),
+    image86: makeNodeComponent("image86"),
+    image87: makeNodeComponent("image87"),
+    image88: makeNodeComponent("image88"),
+    group50659: makeNodeComponent("group50659"),
+    rectangle6208: makeNodeComponent("rectangle6208"),
+    rectangle6209: makeNodeComponent("rectangle6209"),
+    group50701: makeNodeComponent("group50701"),
+    group46: makeNodeComponent("group46"),
+    rectangle34: makeNodeComponent("rectangle34"),
+    maskGroup27: makeNodeComponent("maskGroup27"),
+    pexelsMiriamAlonso75856302: makeNodeComponent("pexelsMiriamAlonso75856302"),
+    group57: makeNodeComponent("group57"),
+    group51: makeNodeComponent("group51"),
+    group61: makeNodeComponent("group61"),
+    group50683: makeNodeComponent("group50683"),
+    group62: makeNodeComponent("group62"),
+    group40: makeNodeComponent("group40"),
+    rectangle35: makeNodeComponent("rectangle35"),
+    maskGroup28: makeNodeComponent("maskGroup28"),
+    image89: makeNodeComponent("image89"),
+    image90: makeNodeComponent("image90"),
+    group63: makeNodeComponent("group63"),
+    rectangle36: makeNodeComponent("rectangle36"),
+    maskGroup29: makeNodeComponent("maskGroup29"),
+    image91: makeNodeComponent("image91"),
+    group50651: makeNodeComponent("group50651"),
+    image92: makeNodeComponent("image92"),
+    group50692: makeNodeComponent("group50692"),
+    group64: makeNodeComponent("group64"),
+    group65: makeNodeComponent("group65"),
+    group66: makeNodeComponent("group66"),
+    group67: makeNodeComponent("group67"),
+    rectangle37: makeNodeComponent("rectangle37"),
+    maskGroup30: makeNodeComponent("maskGroup30"),
+    image93: makeNodeComponent("image93"),
+    group50693: makeNodeComponent("group50693"),
+    btnComecar2: makeNodeComponent("btnComecar2"),
+    rectangle38: makeNodeComponent("rectangle38"),
+    btnComecar3: makeNodeComponent("btnComecar3"),
+    rectangle39: makeNodeComponent("rectangle39"),
 
     // Metadata about props expected for PlasmicHomepage
     internalVariantProps: PlasmicHomepage__VariantProps,
